@@ -100,6 +100,15 @@ nav:
       - Using Voi:
           - Create A Wallet: ecosystem/wallets.md
           - Build On Voi: developers/start-here.md
+      - Understanding Voi:
+          - Core Concepts: understanding-voi/core-concepts.md
+          - Gas: understanding-voi/gas.md
+          - Transactions: understanding-voi/transactions.md
+          - Blocks: understanding-voi/blocks.md
+          - Consensus: understanding-voi/consensus.md
+          - Virtual Machine: understanding-voi/vm.md
+          - Nodes: understanding-voi/nodes.md
+          - Examples & Comparisons: understanding-voi/examples-and-comparisons.md
       - Airdrops:
           - Overview: airdrops/overview.md
           - Incentivized Testnet: airdrops/incentivized-testnet.md
@@ -121,29 +130,10 @@ nav:
       - SDK: developers/sdk.md
       - Smart Contracts: developers/smart-contracts.md
       - Networks: developers/networks.md
+      - Tools: developers/tools.md
   - Node Runners:
-      - Voi Swarm:
-          - Introduction: introduction.md
-          - Getting Started:
-              - Introduction: getting-started/introduction.md
-          - Installation:
-              - System requirements: installation/system-requirements.md
-              - Prerequisites: installation/prerequisites.md
-              - Installation: installation/installation.md
-              - Installation (advanced): installation/installation-advanced.md
-              - Uninstall: installation/uninstall.md
-          - Updating:
-              - Updating Voi Swarm: updating/swarm-update.md
-              - Telemetry name: updating/telemetry.md
-          - Operating:
-              - Running your node: operating/running-your-node.md
-              - Participation keys: operating/participation-keys.md
-              - Setup notifications: operating/setup-notifications.md
-          - Notification Guides:
-              - Amazon SES: notification-guides/amazon-ses.md
-              - Email: notification-guides/email.md
-              - Pushbullet: notification-guides/pushbullet.md
-          - Provider Guidance: provider-guidance.md
-          - Migrating to Voi Swarm: migrating.md
-          - CLI Tools: cli-tools.md
-          - Troubleshooting: troubleshooting.md
+      - Overview: node-runners/overview.md
+      - Participation:
+          - Run A Node: node-runners/run-a-participation-node.md
+      - Relay:
+          - Become A Relay Runner: node-runners/become-a-relay-runner.md
