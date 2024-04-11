@@ -111,9 +111,8 @@ nav:
           - Examples & Comparisons: understanding-voi/examples-and-comparisons.md
       - Airdrops:
           - Overview: airdrops/overview.md
-          - Incentivized Testnet: airdrops/incentivized-testnet.md
-          - Socials: airdrops/socials.md
-          - Project Engagement: airdrops/engagement.md
+          - Incentivized Testnet - Phase 1: airdrops/incentivized-testnet-phase-1.md
+          - Incentivized Testnet - Phase 2: airdrops/incentivized-testnet-phase-2.md
           - Token Sale: airdrops/token-sale.md
   - Ecosystem:
       - Wallets: ecosystem/wallets.md
