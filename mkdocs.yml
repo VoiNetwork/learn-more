@@ -118,7 +118,7 @@ nav:
       - Wallets: ecosystem/wallets.md
       - Community: ecosystem/community.md
       - Governance:
-          - Governance: ecosystem/governance.md
+          - Overview: ecosystem/governance.md
           - Submitting Proposals: ecosystem/submitting-proposals.md
       - Projects: ecosystem/projects.md
       - Tokenomics: ecosystem/tokenomics.md
