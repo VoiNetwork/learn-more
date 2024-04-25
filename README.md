@@ -1,2 +1,2 @@
-# learn_more
+# learn-more
 Learn more section of website

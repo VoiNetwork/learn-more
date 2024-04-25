@@ -1,8 +1,8 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
-site_name: Voi Swarm
-site_description: Create and run a Voi Network Participation Node
-site_url: https://voinetwork.github.io/voi-swarm/
-repo_url: https://github.com/VoiNetwork/voi-swarm
+site_name: Learn More
+site_description: Learn More about Voi
+site_url: https://voinetwork.github.io/learn-more/
+repo_url: https://github.com/VoiNetwork/learn-more
 edit_uri: edit/main/docs/
 
 theme:
@@ -81,10 +81,10 @@ markdown_extensions:
 
 plugins:
   - search
-  - social:
-      cards_layout: default/variant
-      cards_layout_options:
-        background_color: "#702AE2"
+#  - social:
+#      cards_layout: default/variant
+#      cards_layout_options:
+#        background_color: "#702AE2"
   - git-revision-date-localized:
       enabled: true
       enable_creation_date: true
