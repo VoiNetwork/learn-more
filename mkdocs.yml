@@ -42,7 +42,7 @@ extra:
       - manage
   analytics:
     provider: google
-    property: G-FXJF968XD5
+    property: G-DVSMLD5GQ7
     feedback:
       title: Was this page helpful?
       ratings:
