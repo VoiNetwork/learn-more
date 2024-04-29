@@ -1,4 +1,4 @@
-### Command Line Interface (CLI)
+# Command Line Interface (CLI)
 
 There is a CLI available for interacting with the different daemons on nodes.
 

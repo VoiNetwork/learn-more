@@ -1,5 +1,4 @@
-
-## Accounts
+# Accounts
 
 Accounts at their core are structures that contain a few different objects including keys, They are commonly referred to as Addresses as one of the objects that they encapsulate that is visible and commonly used is the Address of the account. 
 

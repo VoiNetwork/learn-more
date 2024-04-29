@@ -1,4 +1,4 @@
-### API
+# API
 
 There are multiple APIs exposed by nodes. These APIs allow for programmatic access to some of the daemons that run on the node.
 

@@ -1,4 +1,4 @@
-## Governance
+# Governance
 
 Voi's L1 blockchain governance model is inspired by the tripartite system used in various global governments, with its own unique adaptations. This model is structured around three distinct branches: Judicial (Block Authority Inc.), Legislative (Voi Council), and Executive (Voi Foundation), each tasked with specific functions and responsibilities to ensure equitable distribution of power and prevent dominance by any single person or entity.
 

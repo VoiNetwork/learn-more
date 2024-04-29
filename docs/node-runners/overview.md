@@ -1,4 +1,4 @@
-## Overview
+# Overview
 
 The Voi blockchain, like every blockchain is underpinned by a network of nodes.
 

@@ -1,4 +1,4 @@
-### Run A Node
+# Run A Node
 
 Running a participation node is the best way to help secure the network in a fully permissionless way.
 

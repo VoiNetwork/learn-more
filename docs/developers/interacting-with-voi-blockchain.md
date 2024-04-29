@@ -1,4 +1,4 @@
-## Interacting With Voi Blockchain
+# Interacting With Voi Blockchain
 
 Interacting with the Voi blockchain is always done through a node in the network. A node is a device with sufficient resources running the appropriate software that is connected to the network.
 

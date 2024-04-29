@@ -1,4 +1,4 @@
-## Core Concepts
+# Core Concepts
 
 Gain a comprehensive grasp of the fundamental principles underlying the operation of the Voi Chain. Explore key concepts such as assets, transactions, blocks, consensus, and the virtual machine. This foundational understanding will equip you with the necessary foundational knowledge to fully utilize Voi.
 

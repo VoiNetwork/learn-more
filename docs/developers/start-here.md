@@ -1,4 +1,4 @@
-## Start Here
+# Start Here
 
 Voi blockchain comes complete with all of the resources necessary for developers to do what they do best, build.
 

@@ -1,4 +1,4 @@
-## Consensus
+# Consensus
 
 In order to have blocks selected and written to the Voi blockchain there needs to be a decentralized consensus mechanism. 
 

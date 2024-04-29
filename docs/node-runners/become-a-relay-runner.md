@@ -1,4 +1,4 @@
-### Become A Relay Runner
+# Become A Relay Runner
 
 In order to become a relay runner your node would not only need to be configured to do so, but will also need to be added to the DNS. 
 

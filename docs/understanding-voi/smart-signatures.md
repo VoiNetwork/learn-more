@@ -1,4 +1,4 @@
-## Smart Signatures
+# Smart Signatures
 
 Smart signatures are how logic is executed to sign transactions in a delegated way.
 

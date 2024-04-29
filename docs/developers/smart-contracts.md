@@ -1,4 +1,4 @@
-## Smart Contracts
+# Smart Contracts
 
 Smart contracts on Voi blockchain can be written using multiple languages that then compile down to TEAL before being deployed to the blockchain using the SDKs or the goal CLI. You can write in TEAL, but it is considered easier to use a higher level abstraction language.
 

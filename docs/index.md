@@ -1,4 +1,4 @@
-## Voi Chain
+# Voi Chain
 
 Voi is a community-owned and operated L1 blockchain and ecosystem. 
 

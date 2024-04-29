@@ -1,4 +1,4 @@
-## Smart Contracts
+# Smart Contracts
 
 Smart contracts are how logic is executed and state is recorded on-chain in a self contained and remotely callable way. They are created, destroyed and interacted with via transactions. 
 

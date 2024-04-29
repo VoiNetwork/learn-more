@@ -1,4 +1,4 @@
-## Virtual Machine
+# Virtual Machine
 
 Every node in the Voi blockchain runs a virtual machine that evaluates the logic in smart contracts and smart signatures with the transactions that are calling them. 
 

@@ -1,4 +1,4 @@
-## Transactions
+# Transactions
 
 Transactions enable accounts to interact with the Voi blockchain by the changing of some type of state. This essentially means a change has been made to the blockchain, as a result of a certain action taken. For example, the transferring of tokens or interacting with smart contracts.
 

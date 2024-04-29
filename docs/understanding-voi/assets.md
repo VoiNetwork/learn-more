@@ -1,5 +1,4 @@
-
-## Assets
+# Assets
 
 Assets on Voi come in two different flavors. Each of which are powerful and can be leveraged in different ways to achieve the same outcome.
 
