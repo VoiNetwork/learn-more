@@ -102,18 +102,21 @@ nav:
           - Build On Voi: developers/start-here.md
       - Understanding Voi:
           - Core Concepts: understanding-voi/core-concepts.md
-          - Gas: understanding-voi/gas.md
+          - Accounts: understanding-voi/accounts.md
+          - Wallets: understanding-voi/wallets.md
+          - Assets: understanding-voi/assets.md
           - Transactions: understanding-voi/transactions.md
           - Blocks: understanding-voi/blocks.md
+          - State Proofs: understanding-voi/state-proofs.md
           - Consensus: understanding-voi/consensus.md
-          - Virtual Machine: understanding-voi/vm.md
           - Nodes: understanding-voi/nodes.md
-          - Examples & Comparisons: understanding-voi/examples-and-comparisons.md
+          - Smart Contracts: understanding-voi/smart-contracts.md
+          - Smart Signatures: understanding-voi/smart-signatures.md
+          - Virtual Machine: understanding-voi/virtual-machine.md
       - Airdrops:
           - Overview: airdrops/overview.md
           - Incentivized Testnet - Phase 1: airdrops/incentivized-testnet-phase-1.md
           - Incentivized Testnet - Phase 2: airdrops/incentivized-testnet-phase-2.md
-          - Token Sale: airdrops/token-sale.md
   - Ecosystem:
       - Wallets: ecosystem/wallets.md
       - Community: ecosystem/community.md
@@ -125,11 +128,14 @@ nav:
       - Roadmap: ecosystem/roadmap.md
   - Developers:
       - Start Here: developers/start-here.md
-      - API: developers/api.md
-      - SDK: developers/sdk.md
+      - Interacting With Voi Blockchain: 
+        - Overview: developers/interacting-with-voi-blockchain.md
+        - SDK: developers/sdk.md
+        - API: developers/api.md
+        - CLI: developers/cli.md
       - Smart Contracts: developers/smart-contracts.md
-      - Networks: developers/networks.md
       - Tools: developers/tools.md
+      - Networks: developers/networks.md
   - Node Runners:
       - Overview: node-runners/overview.md
       - Participation:
