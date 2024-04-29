@@ -1803,14 +1803,14 @@
 
 
 <h1 id="accounts">Accounts</h1>
-<p>Accounts at their core are structures that contain a few different objects including keys, They are commonly referred to as Addresses as one of the objects that they encapsulate that is visible and commonly used is the Address of the account. </p>
+<p>Accounts at their core are structures that contain a few different objects including keys, They are commonly referred to as Addresses as one of the objects that they encapsulate that is visible and commonly used is the Address of the account.</p>
 <h3 id="structure">Structure</h3>
 <h4 id="address">Address</h4>
 <p>The address is the human readable version of the public key that is used as a unique identifier for your account. It is what is used when it comes to identifying and specifying recipients and senders within transactions.</p>
 <p>Your address can be freely shared and is how you and others will uniquely identify your account.</p>
 <h4 id="seed-phrase">Seed Phrase</h4>
 <p>On Voi the seed phrase for an account is 25 human readable words in a specific order.</p>
-<p>From this seed phrase you can derive the private key that is used to sign transactions. </p>
+<p>From this seed phrase you can derive the private key that is used to sign transactions.</p>
 <p>You should never share your seed phrase because you can derive the private key from it.</p>
 <h4 id="private-key">Private Key</h4>
 <p>The private key of the account can be considered the keys to the castle. With this key you have full control over the account and can derive the public key.</p>
@@ -1821,22 +1821,22 @@
 <p>Public keys can be freely shared, but it is unlikely you will need to, or that you will even see your public key.</p>
 <h3 id="attributes">Attributes</h3>
 <h4 id="balance">Balance</h4>
-<p>Every account has an associated balance. That is the number of Voi tokens that it holds. </p>
+<p>Every account has an associated balance. That is the number of Voi tokens that it holds.</p>
 <h4 id="minimum-balance">Minimum Balance</h4>
-<p>Every account that exists on Voi has a minimum balance. This starts at 0.1 Voi and increases with each smart contract opted into or standard asset held. Opting out of already opted into smart contracts or full removal of standard assets from an account decreases the minimum balance. </p>
+<p>Every account that exists on Voi has a minimum balance. This starts at 0.1 Voi and increases with each smart contract opted into or standard asset held. Opting out of already opted into smart contracts or full removal of standard assets from an account decreases the minimum balance.</p>
 <p>As the number of accounts created increases it means that the amount of Voi locked up increases too. It’s worth noting here that every smart contract has an account too, so every smart contract also increases the amount of locked up Voi.</p>
 <h4 id="participation-status">Participation Status</h4>
 <p>Every account on Voi is either Offline or Online. By default all accounts are set to be offline.</p>
 <p>Offline accounts are not participating in consensus. Online accounts are participating in consensus and are staking their balance on a node to
 <a href="node-runners/overview.md">help secure the network</a>.</p>
 <h3 id="features">Features</h3>
-<p>Below are features special to Voi that drastically improve the network’s user experience when compared to other chains. </p>
+<p>Below are features special to Voi that drastically improve the network’s user experience when compared to other chains.</p>
 <h4 id="multisig">Multisig</h4>
 <p>Multisig accounts are represented in Voi the same as normal accounts and are not smart contract based like in other networks.</p>
 <p>The primary difference between them and a standard account is that they have a defined threshold on the number of accounts in the multisig that are needed to sign a transaction.</p>
 <p>The address of a multisig account is derived from the ordered list of the standard accounts that make up the multisig. Multisigs cannot be nested with other multisig accounts so the ordered list used to derive them can only be made up of standard accounts.</p>
 <h4 id="rekeying">Rekeying</h4>
-<p>Rekeying is a feature that swaps out the private key that is used to sign for an account to a different one. </p>
+<p>Rekeying is a feature that swaps out the private key that is used to sign for an account to a different one.</p>
 <p>This means that accounts can maintain the same public key and address, but a different private key from another account must be used to sign transactions instead. The original private key cannot be used to sign transactions.</p>
 <p>You should be sure to retain access to the original private key as if you close out an account then the rekey is reset.</p>
 

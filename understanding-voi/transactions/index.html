@@ -1893,7 +1893,7 @@
 <h4 id="payment-transactions">Payment Transactions</h4>
 <p>A payment transaction sends Voi (Voi blockchains native token) from one account to another.</p>
 <h4 id="application-call-transactions">Application Call Transactions</h4>
-<p>An application call transaction is used to modify and interact with smart contracts. </p>
+<p>An application call transaction is used to modify and interact with smart contracts.</p>
 <p>Application call transactions can be broken up into a number of subtypes, depending on what actions are being taken with a specific smart contract. These subtypes all use an application call as the transaction type, but the contents of the transaction are different depending on the desired action that is to be taken with the smart contract.</p>
 <p>Application calls can take the following actions on a smart contract:</p>
 <ul>
@@ -1912,7 +1912,7 @@
 </li>
 </ul>
 <p>A NoOp subtype transaction is used to call the logic within a smart contract. Because this logic is custom written, the transaction requires the specification of the function to be called and all necessary arguments. This means each NoOp transaction needs to be customized to the specific smart contract it calls.</p>
-<p>All smart contracts can be modified using the modification based subtype transactions in a consistent way. </p>
+<p>All smart contracts can be modified using the modification based subtype transactions in a consistent way.</p>
 <h4 id="key-registration-transactions">Key Registration Transactions</h4>
 <p>A key registration transaction is used to register whether the account will be participating in consensus. Registering the participation status of an account as online means it will be using its stake to help secure the network. A key registration transaction can also be used to take the account offline.</p>
 <p>To register an account online, the key registration transaction needs to contain the participation key data.</p>
@@ -1921,7 +1921,7 @@
 <p>A state proof transaction is submitted to the network exclusively by nodes during the consensus process. They contain two main components, a message, and a state proof. The message can be used to verify transactions that occurred in the last 256 blocks prior to the state proof transaction being created. The state proof is used to verify the message.</p>
 <p>State proof transactions enable transaction verification to be done in a trustless manner without any dependencies on 3rd parties. This is because it is the independently running nodes in the network that create, sign and submit the state proof transaction.</p>
 <h4 id="standard-asset-transactions">Standard Asset Transactions</h4>
-<p>The next three transaction types are only used to interact with Standard Assets. The other asset type (the Smart Asset) is smart contract based, and so all interactions are done with Application Call Transactions. </p>
+<p>The next three transaction types are only used to interact with Standard Assets. The other asset type (the Smart Asset) is smart contract based, and so all interactions are done with Application Call Transactions.</p>
 <h5 id="asset-configuration">Asset Configuration</h5>
 <p>The asset configuration transaction is used to configure a standard asset.</p>
 <p>Like the application transaction, the asset configuration transaction has a number of subtypes which dictate the transaction effect.</p>
@@ -1933,7 +1933,7 @@
 </ul>
 <p>All of these subtype transactions can only be performed by specific addresses which are set during the create transaction and can be modified using the reconfigure transaction.</p>
 <h5 id="asset-freeze">Asset Freeze</h5>
-<p>Standard assets can be configured to enable the asset to be frozen. The asset freeze transaction is used to freeze or unfreeze an account for that specific standard asset, if the standard asset has been configured to allow such an action to be taken. </p>
+<p>Standard assets can be configured to enable the asset to be frozen. The asset freeze transaction is used to freeze or unfreeze an account for that specific standard asset, if the standard asset has been configured to allow such an action to be taken.</p>
 <p>Freezing an account for that standard asset would mean that the specified account is unable to send or receive that standard asset.</p>
 <h5 id="asset-transfer">Asset Transfer</h5>
 <p>The asset transfer transaction is used to move standard assets between accounts as well as being used by accounts to opt in to receive standard assets.</p>
@@ -1949,27 +1949,27 @@
 </ul>
 </li>
 </ul>
-<p>The opt in subtype transaction means that an account can only receive a standard asset if the user has opted in to using it. </p>
+<p>The opt in subtype transaction means that an account can only receive a standard asset if the user has opted in to using it.</p>
 <p>The payment subtype transaction acts in the same way as a payment transaction for Voi blockchains native token. It enables an account to transfer a standard asset to another account that is opted into the standard asset.</p>
 <p>The clawback subtype transaction can be used to transfer tokens into or out of an account that is not owned by the creator of the clawback subtype transaction regardless of if the account is frozen or not. The standard asset would have to be configured appropriately for this subtype transaction to be possible.</p>
 <h4 id="grouped-transactions">Grouped Transactions</h4>
-<p>Voi blockchain enables the ability for transactions to be grouped together into what is referred to as an Atomic Transfer. </p>
-<p>In an atomic transfer either all transactions succeed or all transactions fail. The transactions in the group can all have unique addresses as the sender. This allows for powerful use cases without the need for a smart contract to facilitate them securely.  </p>
+<p>Voi blockchain enables the ability for transactions to be grouped together into what is referred to as an Atomic Transfer.</p>
+<p>In an atomic transfer either all transactions succeed or all transactions fail. The transactions in the group can all have unique addresses as the sender. This allows for powerful use cases without the need for a smart contract to facilitate them securely.</p>
 <h3 id="signing">Signing</h3>
 <p>All transaction types and their subtypes will be rejected by the Voi blockchain unless they are appropriately signed by the correct account.</p>
 <p>There are three different ways to sign transactions on the Voi blockchain which primarily depend on the account attempting to submit the transaction.</p>
 <h4 id="single-signing">Single Signing</h4>
 <p>The most common way of signing. Each account's private key will be used to sign a transaction when that account is specified as the sender for any transaction type or subtype.</p>
 <h4 id="multi-signing">Multi Signing</h4>
-<p>When the sender of a transaction is the address of a multisig account then the private keys for the accounts that constitute the multisig are used to sign the transaction up to the pre-configured threshold of the multisig. </p>
+<p>When the sender of a transaction is the address of a multisig account then the private keys for the accounts that constitute the multisig are used to sign the transaction up to the pre-configured threshold of the multisig.</p>
 <h4 id="delegated-signing">Delegated Signing</h4>
 <p>Delegated signing is when an account (multisig or single) has been used to sign a Smart Signature and that very same Smart Signature is then used to sign a transaction on behalf of the account.</p>
 <h3 id="fees">Fees</h3>
 <p>Every transaction on Voi has to pay at least a minimum fee for a transaction to be accepted plus a dynamic fee that comes into effect when the network is congested.</p>
 <p>The additional fee on Voi blockchain is determined solely on the size of the transaction measured in bytes and the network congestion. The amount of congestion on the network dictates the fee per byte.</p>
-<p>Every transaction will have a minimum fee so even if the fee per byte is 0, when the network is not congested, transactions will still have to pay the minimum fee. </p>
+<p>Every transaction will have a minimum fee so even if the fee per byte is 0, when the network is not congested, transactions will still have to pay the minimum fee.</p>
 <h4 id="fee-delegation">Fee Delegation</h4>
-<p>When using grouped transactions Voi blockchain supports the ability for the transaction fees of all the transactions in the group to be divided across the transactions in the group however you want. </p>
+<p>When using grouped transactions Voi blockchain supports the ability for the transaction fees of all the transactions in the group to be divided across the transactions in the group however you want.</p>
 <p>As transactions can all originate from unique addresses this enables powerful use cases in an efficient way without the need of smart contracts.</p>
 
 
