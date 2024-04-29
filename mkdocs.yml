@@ -109,7 +109,7 @@ nav:
           - Blocks: understanding-voi/blocks.md
           - State Proofs: understanding-voi/state-proofs.md
           - Consensus: understanding-voi/consensus.md
-          - Nodes: understanding-voi/nodes.md
+          - Nodes: node-runners/overview.md
           - Smart Contracts: understanding-voi/smart-contracts.md
           - Smart Signatures: understanding-voi/smart-signatures.md
           - Virtual Machine: understanding-voi/virtual-machine.md
