@@ -13,10 +13,10 @@
         <link rel="canonical" href="https://voinetwork.github.io/learn-more/understanding-voi/consensus/">
       
       
-        <link rel="prev" href="../blocks/">
+        <link rel="prev" href="../state-proofs/">
       
       
-        <link rel="next" href="../nodes/">
+        <link rel="next" href="../../node-runners/overview/">
       
       
       <link rel="icon" href="../../assets/favicon.ico">
@@ -84,6 +84,11 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
+      
+        
+        <a href="#consensus" class="md-skip">
+          Skip to content
+        </a>
       
     </div>
     <div data-md-component="announce">
@@ -435,7 +440,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../accounts.md" class="md-nav__link">
+      <a href="../accounts/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -456,7 +461,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../wallets.md" class="md-nav__link">
+      <a href="../wallets/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -477,7 +482,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../assets.md" class="md-nav__link">
+      <a href="../assets/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -540,7 +545,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../state-proofs.md" class="md-nav__link">
+      <a href="../state-proofs/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -568,6 +573,17 @@
       
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Consensus
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
@@ -577,6 +593,89 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#consensus" class="md-nav__link">
+    <span class="md-ellipsis">
+      Consensus
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Consensus">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#block-proposal" class="md-nav__link">
+    <span class="md-ellipsis">
+      Block Proposal
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#soft-vote" class="md-nav__link">
+    <span class="md-ellipsis">
+      Soft Vote
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Soft Vote">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#block-propagation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Block Propagation
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#soft-vote-committee" class="md-nav__link">
+    <span class="md-ellipsis">
+      Soft Vote Committee
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#certify-vote" class="md-nav__link">
+    <span class="md-ellipsis">
+      Certify Vote
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -590,7 +689,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../nodes/" class="md-nav__link">
+      <a href="../../node-runners/overview/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -611,7 +710,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../smart-contracts.md" class="md-nav__link">
+      <a href="../smart-contracts/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -632,7 +731,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../smart-signatures.md" class="md-nav__link">
+      <a href="../smart-signatures/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -653,7 +752,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../virtual-machine.md" class="md-nav__link">
+      <a href="../virtual-machine/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -738,7 +837,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../airdrops/incentivized-testnet-phase-1.md" class="md-nav__link">
+      <a href="../../airdrops/incentivized-testnet-phase-1/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -759,7 +858,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../airdrops/incentivized-testnet-phase-2.md" class="md-nav__link">
+      <a href="../../airdrops/incentivized-testnet-phase-2/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -1118,7 +1217,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../developers/interacting-with-voi-blockchain.md" class="md-nav__link">
+      <a href="../../developers/interacting-with-voi-blockchain/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -1181,7 +1280,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../developers/cli.md" class="md-nav__link">
+      <a href="../../developers/cli/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -1319,7 +1418,7 @@
         
   
   <span class="md-ellipsis">
-    Overview
+    Nodes
   </span>
   
 
@@ -1482,6 +1581,80 @@
   
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#consensus" class="md-nav__link">
+    <span class="md-ellipsis">
+      Consensus
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Consensus">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#block-proposal" class="md-nav__link">
+    <span class="md-ellipsis">
+      Block Proposal
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#soft-vote" class="md-nav__link">
+    <span class="md-ellipsis">
+      Soft Vote
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Soft Vote">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#block-propagation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Block Propagation
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#soft-vote-committee" class="md-nav__link">
+    <span class="md-ellipsis">
+      Soft Vote Committee
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#certify-vote" class="md-nav__link">
+    <span class="md-ellipsis">
+      Certify Vote
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -1505,7 +1678,34 @@
 
   <h1>Consensus</h1>
 
-
+<h2 id="consensus">Consensus</h2>
+<p>In order to have blocks selected and written to the Voi blockchain there needs to be a decentralized consensus mechanism. </p>
+<p>Voi blockchain is a Pure Proof of Stake (PPoS) network meaning that blocks are selected and written extremely efficiently in a decentralized way to the blockchain by nodes with tokens staked on them through online accounts.</p>
+<p>Accounts used in consensus are selected randomly, but with more weight given to accounts that hold more native tokens.</p>
+<p>There are 3 steps necessary to have a single block written to the blockchain within a given round. </p>
+<h3 id="block-proposal">Block Proposal</h3>
+<p>In this step multiple accounts are selected to propose the new block for the round.</p>
+<p>To do this every node in the network runs a pseudorandom function on each account staked on them to determine if an account is selected to propose the block. </p>
+<p>Once an account is selected by the pseudorandom function, the node that the account is staked on then propagates the proposed block along with proof, the pseudorandom functions output, that the account was selected in a proposal message. </p>
+<p>This is so that other nodes in the network can independently verify that the account was actually selected.</p>
+<h3 id="soft-vote">Soft Vote</h3>
+<p>In this step the nodes select only one proposed block to get certified.</p>
+<h4 id="block-propagation">Block Propagation</h4>
+<p>As multiple accounts are selected to propose the new block it means that nodes receive multiple proposal messages. Each proposed block is verified and validated using the proof contained in the proposal message by the nodes. </p>
+<p>Only the top ranking proposal message with the lowest score is propagated to other nodes in the network. </p>
+<h4 id="soft-vote-committee">Soft Vote Committee</h4>
+<p>Each node will then once again run a pseudorandom function on each account staked on it to see if the account is selected to be in the soft vote committee.</p>
+<p>For any account that is chosen their voting power is relative to the number of native tokens they hold. </p>
+<p>The selected accounts vote for the proposal message with the lowest score out of all the proposal messages received by the node after the block propagation. The score is determined in the same way as before using the pseudorandom functions output that is contained in each proposal message to prove the validity of the proposal.</p>
+<p>It is the votes from the accounts in the soft vote committee accompanied by the proof that the account is in the committee that will now be propagated to the network.</p>
+<p>This is a process that repeats with a new committee each time until a quorum is reached. </p>
+<p>Other nodes on the network with accounts not in the committee will receive the votes as well as proof of committee membership from the accounts that cast the votes. Once the votes are validated they are tallied up until the quorum is reached.</p>
+<p>Now the quorum is reached we proceed to the certify vote step for the block proposal that passed.</p>
+<h3 id="certify-vote">Certify Vote</h3>
+<p>A final committee of accounts selected in the same way as in the soft vote committee now validates the passed block proposal for any problems.</p>
+<p>If the block proposal is valid this same final committee votes until a quorum is reached to certify the block in the proposal. </p>
+<p>Once the block is successfully voted to be certified the node that proposed the block in the first place then creates a certificate for the block and writes it to the ledger.</p>
+<p>Once the block is written to the ledger a new round begins for the next block.</p>
 
 
 
@@ -1528,7 +1728,7 @@
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">April 8, 2024</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">April 29, 2024</span>
   </span>
 
     
@@ -1548,11 +1748,12 @@
   <span class="md-source-file__fact">
     <span class="md-icon" title="Contributors">
       
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 5.5A3.5 3.5 0 0 1 15.5 9a3.5 3.5 0 0 1-3.5 3.5A3.5 3.5 0 0 1 8.5 9 3.5 3.5 0 0 1 12 5.5M5 8c.56 0 1.08.15 1.53.42-.15 1.43.27 2.85 1.13 3.96C7.16 13.34 6.16 14 5 14a3 3 0 0 1-3-3 3 3 0 0 1 3-3m14 0a3 3 0 0 1 3 3 3 3 0 0 1-3 3c-1.16 0-2.16-.66-2.66-1.62a5.536 5.536 0 0 0 1.13-3.96c.45-.27.97-.42 1.53-.42M5.5 18.25c0-2.07 2.91-3.75 6.5-3.75s6.5 1.68 6.5 3.75V20h-13v-1.75M0 20v-1.5c0-1.39 1.89-2.56 4.45-2.9-.59.68-.95 1.62-.95 2.65V20H0m24 0h-3.5v-1.75c0-1.03-.36-1.97-.95-2.65 2.56.34 4.45 1.51 4.45 2.9V20Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 4a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4Z"/></svg>
       
     </span>
     <nav>
       
+        <a href="mailto:benedictdixon@hotmail.co.uk">Benedict</a>
     </nav>
   </span>
 
