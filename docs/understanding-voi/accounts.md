@@ -1,6 +1,6 @@
 # Accounts
 
-Accounts at their core are structures that contain a few different objects including keys, They are commonly referred to as Addresses as one of the objects that they encapsulate that is visible and commonly used is the Address of the account. 
+Accounts at their core are structures that contain a few different objects including keys, They are commonly referred to as Addresses as one of the objects that they encapsulate that is visible and commonly used is the Address of the account.
 
 
 ### Structure
@@ -17,7 +17,7 @@ Your address can be freely shared and is how you and others will uniquely identi
 
 On Voi the seed phrase for an account is 25 human readable words in a specific order.
 
-From this seed phrase you can derive the private key that is used to sign transactions. 
+From this seed phrase you can derive the private key that is used to sign transactions.
 
 You should never share your seed phrase because you can derive the private key from it.
 
@@ -43,12 +43,12 @@ Public keys can be freely shared, but it is unlikely you will need to, or that y
 
 #### Balance
 
-Every account has an associated balance. That is the number of Voi tokens that it holds. 
+Every account has an associated balance. That is the number of Voi tokens that it holds.
 
 
 #### Minimum Balance
 
-Every account that exists on Voi has a minimum balance. This starts at 0.1 Voi and increases with each smart contract opted into or standard asset held. Opting out of already opted into smart contracts or full removal of standard assets from an account decreases the minimum balance. 
+Every account that exists on Voi has a minimum balance. This starts at 0.1 Voi and increases with each smart contract opted into or standard asset held. Opting out of already opted into smart contracts or full removal of standard assets from an account decreases the minimum balance.
 
 As the number of accounts created increases it means that the amount of Voi locked up increases too. It’s worth noting here that every smart contract has an account too, so every smart contract also increases the amount of locked up Voi.
 
@@ -63,7 +63,7 @@ Offline accounts are not participating in consensus. Online accounts are partici
 
 ### Features
 
-Below are features special to Voi that drastically improve the network’s user experience when compared to other chains. 
+Below are features special to Voi that drastically improve the network’s user experience when compared to other chains.
 
 
 #### Multisig
@@ -77,7 +77,7 @@ The address of a multisig account is derived from the ordered list of the standa
 
 #### Rekeying
 
-Rekeying is a feature that swaps out the private key that is used to sign for an account to a different one. 
+Rekeying is a feature that swaps out the private key that is used to sign for an account to a different one.
 
 This means that accounts can maintain the same public key and address, but a different private key from another account must be used to sign transactions instead. The original private key cannot be used to sign transactions.
 

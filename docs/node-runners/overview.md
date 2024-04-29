@@ -18,7 +18,7 @@ Some common configurations are:
 
 ### Participation Nodes
 
-Participation nodes are the nodes that participate in consensus and that transactions are submitted from. These are the nodes that accounts are staked on and they store the last 1000 blocks of the ledger. 
+Participation nodes are the nodes that participate in consensus and that transactions are submitted from. These are the nodes that accounts are staked on and they store the last 1000 blocks of the ledger.
 
 
 ### Relay Nodes

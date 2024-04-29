@@ -81,10 +81,10 @@ markdown_extensions:
 
 plugins:
   - search
-#  - social:
-#      cards_layout: default/variant
-#      cards_layout_options:
-#        background_color: "#702AE2"
+  #  - social:
+  #      cards_layout: default/variant
+  #      cards_layout_options:
+  #        background_color: "#702AE2"
   - git-revision-date-localized:
       enabled: true
       enable_creation_date: true
@@ -128,11 +128,11 @@ nav:
       - Roadmap: ecosystem/roadmap.md
   - Developers:
       - Start Here: developers/start-here.md
-      - Interacting With Voi Blockchain: 
-        - Overview: developers/interacting-with-voi-blockchain.md
-        - SDK: developers/sdk.md
-        - API: developers/api.md
-        - CLI: developers/cli.md
+      - Interacting With Voi Blockchain:
+          - Overview: developers/interacting-with-voi-blockchain.md
+          - SDK: developers/sdk.md
+          - API: developers/api.md
+          - CLI: developers/cli.md
       - Smart Contracts: developers/smart-contracts.md
       - Tools: developers/tools.md
       - Networks: developers/networks.md

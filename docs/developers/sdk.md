@@ -1,6 +1,6 @@
 # SDK
 
-In order to simply access the APIs there are a number of SDKs available in different languages. 
+In order to simply access the APIs there are a number of SDKs available in different languages.
 
 Currently there is official SDK support for:
 

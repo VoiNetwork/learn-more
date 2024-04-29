@@ -1,6 +1,6 @@
 # Networks
 
-Voi blockchain will have two public networks, mainnet & testnet. Right now, there only exists the testnet network. 
+Voi blockchain will have two public networks, mainnet & testnet. Right now, there only exists the testnet network.
 
 ### Mainnet
 
