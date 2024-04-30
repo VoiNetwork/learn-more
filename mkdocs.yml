@@ -87,8 +87,7 @@ plugins:
   #        background_color: "#702AE2"
   - git-revision-date-localized:
       enabled: true
-      enable_creation_date: true
-  - git-authors
+      enable_creation_date: false
   - privacy
 
 extra_css:
