@@ -2,7 +2,9 @@
 
 Voi is a community-owned and operated L1 blockchain and ecosystem.
 
-Voi uniquely allocates a majority of the ecosystem’s resources to those directly adding value to the network.
-Voi solves the problem found in many blockchains today,
-which is a lack of decentralization, lack of self-governance,
-lack of community investment, and continued complexity that inhibits mainstream usage.
+Voi stands out by uniquely allocating a majority of the ecosystem’s resources
+to those who directly add value to the network.
+It fosters decentralization, promotes self-governance, encourages community investment,
+and simplifies the user experience to facilitate mainstream usage.
+
+Read on to learn more about Voi's ecosystem, tokenomics, governance, and more.
