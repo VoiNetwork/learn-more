@@ -2,7 +2,7 @@
 
 Assets on Voi come in two different flavors. Each of which are powerful and can be leveraged in different ways to achieve the same outcome.
 
-Both can be used to represent Fungible & Non-Fungible resources on the Voi blockchain as assets.
+Both can be used to represent Fungible and Non-Fungible resources on the Voi blockchain as assets.
 
 The main difference is that Standard Assets require a recipient to opt in to receive the asset first and they are not as extensible as Smart Assets.
 

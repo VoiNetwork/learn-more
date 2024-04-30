@@ -1,8 +1,8 @@
 # SDK
 
-In order to simply access the APIs there are a number of SDKs available in different languages.
+To simply access the APIs there are a number of SDKs available in different languages.
 
-Currently there is official SDK support for:
+Currently, there is official SDK support for:
 
 * [JavaScript](https://github.com/algorand/js-algorand-sdk)
 * [Go](https://github.com/algorand/go-algorand-sdk)
