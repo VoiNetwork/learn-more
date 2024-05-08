@@ -2,167 +2,182 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://docs.voi.network/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/airdrops/incentivized-testnet-phase-1/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/airdrops/incentivized-testnet-phase-2/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/airdrops/overview/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/developers/api/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/developers/cli/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/developers/interacting-with-voi-blockchain/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/developers/networks/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/developers/sdk/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/developers/smart-contracts/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/developers/start-here/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/developers/tools/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/ecosystem/community/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/ecosystem/governance/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/ecosystem/projects/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/ecosystem/roadmap/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/ecosystem/submitting-proposals/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/ecosystem/tokenomics/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/ecosystem/wallets/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/node-runners/become-a-relay-runner/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/node-runners/overview/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/node-runners/run-a-participation-node/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/understanding-voi/accounts/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/understanding-voi/assets/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/understanding-voi/blocks/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/understanding-voi/consensus/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/understanding-voi/core-concepts/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.voi.network/understanding-voi/nodes/</loc>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/understanding-voi/smart-contracts/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/understanding-voi/smart-signatures/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/understanding-voi/state-proofs/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/understanding-voi/transactions/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/understanding-voi/virtual-machine/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.voi.network/understanding-voi/wallets/</loc>
-         <lastmod>2024-05-01</lastmod>
+         <lastmod>2024-05-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.voi.network/using-voi/build-on-voi/</loc>
+         <lastmod>2024-05-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.voi.network/using-voi/create-a-wallet/</loc>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
