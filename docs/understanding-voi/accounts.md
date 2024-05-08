@@ -58,7 +58,7 @@ As the number of accounts created increases it means that the amount of Voi lock
 Every account on Voi is either Offline or Online. By default all accounts are set to be offline.
 
 Offline accounts are not participating in consensus. Online accounts are participating in consensus and are staking their balance on a node to
-[help secure the network](node-runners/overview.md).
+[help secure the network](https://docs.voi.network/node-runners/overview/).
 
 
 ### Features
