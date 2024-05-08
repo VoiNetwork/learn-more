@@ -18,7 +18,7 @@ This branch includes both elected and appointed community members.
 
 It is responsible for the implementation of policies and decisions formulated by the Council, aligning daily operations with the community’s values and objectives.
 
-## Voi Inc. (Judicial)
+## Block Authority Inc. (Judicial)
 Operated by the core team, this branch provides guidance and ensures continuity. 
 
 It safeguards the constitution and the blockchain’s core principles, acting as a guardian against unnecessary or capricious changes, ensuring amendments are justified and significant.
