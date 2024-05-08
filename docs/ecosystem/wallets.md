@@ -27,9 +27,11 @@ Regardless of which wallet you choose, the basic creation process will remain th
 ### Kibisis
 
 Guide:
+
 - [Getting Started With Kibisis](https://medium.com/@RachKoch/getting-started-with-kibisis-wallet-9243d8f83bde)
 
 Videos:
+
 - [Create A Voi Account With Kibisis](https://www.youtube.com/shorts/cgBQh1mwiRM)
 - [How To Import An Existing Account In To Kibisis](https://www.youtube.com/shorts/cgBQh1mwiRM)
 - [Step-by-step Video Guide](https://www.loom.com/share/c15a82c9e4dc4e5885ff962cc73bdb33?sid=889ff8d4-97a3-489c-8c8d-ef61ae4d46a8)
@@ -37,12 +39,15 @@ Videos:
 ### A-Wallet
 
 Guide: 
+
 - [Getting Started With A-Wallet](https://medium.com/@RachKoch/how-to-create-an-a-wallet-a6f2709088a6)
 
 Videos:
+
 - [Create A Voi Account With A-Wallet](https://www.loom.com/share/0eadd1281dfd4a148b19e64c29bff1d7?sid=d5df6f03-ec2b-4c64-bf52-eab3673c75b5)
 
 ### Lute
 
 Guide: 
+
 - [Getting Started With Lute](https://medium.com/@RachKoch/getting-started-with-lute-wallet-9acee565c8da)
