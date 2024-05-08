@@ -1,18 +1,25 @@
 # Community-Centric Tokenomics
 
-Voi is a new highly performant Layer 1 blockchain designed for long-term growth and sustainability. 
+Voi is a new highly performant Layer 1 blockchain designed for long-term growth and sustainability.
 
 Voi’s economic architecture is meticulously planned to span 20 years, strategically mitigating inflation and ensuring the protection of our users and stakeholders.
 
 ## A Commitment to Community-First Economics
 
-At the heart of Voi’s philosophy is a commitment to our community. 
+At the heart of Voi’s philosophy is a commitment to our community.
 
-We are proud to allocate **75%** of our token distribution directly to our users and participants. 
+We are proud to allocate **75%** of our token distribution directly to our users and participants.
 
 This unprecedented move ensures that the majority of network ownership and benefits are channeled towards those who contribute to and grow with our platform.
 
-![Voi Tokenomics](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ids7LDCfLMu4coizaxrY1w.jpeg)
+
+| Sector | Allocation (% - Quantity)| Lock Up (Months) | Vest (Months) |
+|--------|--------------------------|-------------------|---------------|
+| Early Incentives | 15% | 0 | 18            |
+| Block rewards | 10% | 0 | 240|
+| Ecosystem | 30% | 0 | 60 |
+| Future Growth | 20% | 60 | 120 |
+| Treasury | 25% | 24 | 36|
 
 ## Focused Growth Strategy
 
@@ -22,7 +29,7 @@ This unprecedented move ensures that the majority of network ownership and benef
 
 ## Long-Term Stability
 
-Voi is designed not just for today but for decades to come. 
+Voi is designed not just for today but for decades to come.
 
 Our strategic distribution and vesting periods are set to counteract early inflation and support a steady growth trajectory, protecting both early adopters and future users.
 
