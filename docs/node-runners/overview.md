@@ -18,12 +18,12 @@ Some common configurations are:
 
 ### Participation Nodes
 
-Participation nodes are the nodes that participate in consensus and that transactions are submitted from. These are the nodes that accounts are staked on and they store the last 1000 blocks of the ledger.
+[Participation nodes](https://docs.voi.network/node-runners/run-a-participation-node/) are the nodes that participate in consensus and that transactions are submitted from. These are the nodes that accounts are staked on and they store the last 1000 blocks of the ledger.
 
 
 ### Relay Nodes
 
-Relay nodes are used for routing messages between other node types.
+[Relay nodes](https://docs.voi.network/node-runners/become-a-relay-runner/) are used for routing messages between other node types.
 
 
 ### Lite Nodes
