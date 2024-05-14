@@ -21,7 +21,7 @@ Voi is the native asset of the Voi chain, primarily used for participation and f
 
 ##### VSA (ASA)
 
-VSA (also known as ASA which stands for Algorand Standard Asset) is an asset type built into the AVM that offers basic token functionality. Despite being a standard asset, its use is not widespread on the Voi Chain. To date, VSA is primarily used as an early access token in the NFT launchpad High Forge and in the liquid staking token dVoi.
+VSA (also known as ASA which stands for Algorand Standard Asset) is an asset type built into the AVM that offers basic token functionality. Despite being a standard asset, its use is not widespread on the Voi Chain. To date, VSA is primarily used as early access tokens in the NFT launchpad High Forge, in the liquid staking token dVoi, and some Discord verification bots.
 
 
 
