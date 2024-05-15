@@ -1,6 +1,8 @@
 # Voi Chain
 
-Voi is a community-owned and operated L1 blockchain and ecosystem.
+Voi is a community-owned and operated L1 blockchain and ecosystem. 
+
+**Voi Network has 2.8 second block times, instant finality and can handle 10K+ TPS.**
 
 Voi stands out by uniquely allocating a majority of the ecosystem’s resources
 to those who directly add value to the network.
