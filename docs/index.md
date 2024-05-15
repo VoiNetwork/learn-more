@@ -17,3 +17,5 @@ The community values for Voi are:
 > - **Intentionality**: Ensure thoughtful, purpose-driven action, development, and communication inline with Voi’s broader mission and vision.
 
 Read on to learn more about Voi's ecosystem, governance, community values, tokenomics, and more.
+
+Voi's whitepaper can be found [here](https://drive.google.com/file/d/1gpZDpeoC3FAt-SAVS0B5Hq7bDdgnpE7R/view?usp=drive_link).
