@@ -11,6 +11,7 @@ The main difference is that Standard Assets require a recipient to opt in to rec
 
 Smart assets are represented by smart contracts and are created and interacted with by transactions that interact with smart contracts.
 
+The 2 standards used are ARC200 (Fungible) & ARC72 (Non-Fungible). You will likely see people reference Smart Assets by their more concrete implementations.
 
 ### Standard Assets
 
