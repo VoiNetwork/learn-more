@@ -15,7 +15,7 @@ Voi is dedicated to serving the multi-billion community infrastructure market, i
 ## Highly Performant
 Voi Network boasts 2.8 second block times, instant finality and can handle 10K+ TPS under load. 
 
-While the technicaly capabilities of the network are impressive, we believe that the true value of the network is with the community, with you.
+While the technical capabilities of the network are impressive, we believe that the true value of the network is with the community, with you.
 
 ## Voi's Values
 In order to be truly decentralized the community follows a set of values to guide them, they are:
