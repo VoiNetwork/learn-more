@@ -9,7 +9,7 @@ At Voi, our mission is to make blockchain technology accessible and beneficial f
 Relay Runners are the backbone of our network infrastructure. Your participation ensures the integrity, security, and efficiency of the Voi network by running powerful nodes and relays that support the overall ecosystem.
 
 
-# Being a Node Runner
+# Being a Relay Runner
 
 As a Relay Runner, your primary role is to operate and maintain high-performance nodes and relays within the Voi network. This involves ensuring your nodes are consistently online, secure, and effectively contributing to the network’s operations.
 
