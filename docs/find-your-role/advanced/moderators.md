@@ -38,7 +38,7 @@ Key Responsibilities and Opportunities:
     - [Ecosystem Directory](https://airtable.com/apphFYuejZFJJG0i6/shru2v6BXxUaAEU7O)
 
 - Register
-    - [https://forms.gle/sAZey5LCLPbZfvfr7](https://forms.gle/sAZey5LCLPbZfvfr7) 
+    - [Registration Form](https://forms.gle/sAZey5LCLPbZfvfr7) 
 
 - Get accepted
 
