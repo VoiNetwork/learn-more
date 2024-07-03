@@ -116,12 +116,18 @@ nav:
   - Ecosystem:
       - Wallets: ecosystem/wallets.md
       - Community: ecosystem/community.md
-      - Governance:
-          - Overview: ecosystem/governance.md
-          - Submitting Proposals: ecosystem/submitting-proposals.md
       - Projects: ecosystem/projects.md
       - Tokenomics: ecosystem/tokenomics.md
-      - Roadmap: ecosystem/roadmap.md
+      #- Roadmap: ecosystem/roadmap.md
+  - Governance:
+      - Overview: governance/governance.md
+      - Committees:
+          - Overview: governance/committees/overview.md
+          - Network: governance/committees/network.md
+          - Builders: governance/committees/builders.md
+          - NFTs: governance/committees/nfts.md
+          - DeFi: governance/committees/defi.md
+      - Submitting Proposals: governance/submitting-proposals.md
   - Developers:
       - Start Here: developers/start-here.md
       - Interacting With Voi Blockchain:
@@ -138,3 +144,17 @@ nav:
           - Run A Node: node-runners/run-a-participation-node.md
       - Relay:
           - Become A Relay Runner: node-runners/become-a-relay-runner.md
+  - Find Your Role:
+      - Voiagers: find-your-role/voiagers.md
+      - Node Runners: find-your-role/node-runners.md
+      - Developers: find-your-role/developers.md
+      - Builders: find-your-role/builders.md
+      - Traders: find-your-role/traders.md
+      - Artists: find-your-role/artists.md
+      - Collectors: find-your-role/collectors.md
+      - Advanced:
+          - Ambassadors: find-your-role/advanced/ambassadors.md
+          - Moderators: find-your-role/advanced/moderators.md
+          - Governors: find-your-role/advanced/governors.md
+          - Core Partners: find-your-role/advanced/core-partners.md
+          - Relay Runners: find-your-role/advanced/relay-runners.md
