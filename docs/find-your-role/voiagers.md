@@ -17,7 +17,9 @@ As a Voiager, your primary role is to actively use the applications and services
 
 Key Responsibilities and Opportunities:
 - Interacting: Use and test various applications, reporting bugs and suggesting improvements.
+
 - Community Engagement: Participate in discussions, events, and activities within the community.
+
 - Promotion: Share your experiences with Voi on social media and other platforms to help grow your community.
 
 
@@ -26,10 +28,13 @@ Key Responsibilities and Opportunities:
 Quick Start Guide:
 - Join our platforms 
     - [Discord](https://discord.gg/vnFbrJrHeW), [Telegram](https://t.me/VoiOfficial) & [Twitter](https://x.com/Voi_Net).
+
 - Set Up Your Wallet
     - [Wallet](https://kibis.is/)
+
 - Explore the Ecosystem
     - [Ecosystem Directory](https://airtable.com/apphFYuejZFJJG0i6/shru2v6BXxUaAEU7O)
+    
 - Introduce Yourself
     - [Meet your community](https://discord.com/channels/1055863853633785857/1128671715673780264)
 
