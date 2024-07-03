@@ -52,7 +52,7 @@ Each has its own benefits and opportunities.
 You can select other roles in Discord or look at some of the more advanced options.
 
 ## [Other Roles](https://discord.com/channels/1055863853633785857/1157678590196973728/1257675380454723604):
-- [Node Runners](../node-runners.md): Become a part of the network! Run a node and keep Voi secure.
+- [Node Runner](../node-runners.md): Become a part of the network! Run a node and keep Voi secure.
 
 - [Developer](../developers.md): If you know how to code or are looking to learn then become a Voi developer.
 
