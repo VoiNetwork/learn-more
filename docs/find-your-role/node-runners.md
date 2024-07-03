@@ -10,7 +10,6 @@ Node Runners are the backbone of our blockchain network. Your participation ensu
 
 We love node runners so much that 10% of the total supply goes towards block rewards.
 
-
 # Being a Node Runner
 
 As a Node Runner, your primary role is to operate and maintain a node within the Voi network. 
@@ -30,7 +29,7 @@ Key Responsibilities and Opportunities:
 
 # Your Quickstart
 
-Quick Start Guide:
+## Quick Start Guide:
 
 - Join our platforms 
     - [Discord](https://discord.gg/vnFbrJrHeW), [Telegram](https://t.me/VoiOfficial) & [Twitter](https://x.com/Voi_Net).
@@ -44,7 +43,7 @@ Quick Start Guide:
 -  Introduce Yourself
     - [Meet your community](https://discord.com/channels/1055863853633785857/1128672413048115250)
 
-Detailed Setup Instructions:
+## Detailed Setup Instructions:
 
 - Node Setup
     - General Guide
@@ -74,15 +73,11 @@ Detailed Setup Instructions:
 
 # Your Community
 
-Relevant Channels and Groups:
-
 - [Node Runner Chat](https://discord.com/channels/1055863853633785857/1128672413048115250) 
 
 - [Network Committee](../governance/committees/network.md)
 
 # Your Learning
-
-Educational Resources:
 
 - [Official Docs](https://docs.voi.network/)
 
@@ -98,7 +93,7 @@ Each has its own benefits and opportunities.
 
 You can select other roles in Discord or look at some of the more advanced options.
 
-[Other Roles](https://discord.com/channels/1055863853633785857/1157678590196973728/1257675380454723604):
+## [Other Roles](https://discord.com/channels/1055863853633785857/1157678590196973728/1257675380454723604):
 
 - [Node Runners](node-runners.md): Become a part of the network! Run a node and keep Voi secure.
 
@@ -110,7 +105,7 @@ You can select other roles in Discord or look at some of the more advanced optio
 
 - NFTs: [Artists](artists.md) or [collectors](collectors.md) should grab the NFT role.
 
-Advanced Roles:
+## Advanced Roles:
 
 - [Ambassador](advanced/ambassadors.md): Represent Voi online.
 
@@ -124,8 +119,6 @@ Advanced Roles:
 
 
 # Your Resources
-
-Important links:
 
 - [Getting Started - Voi Swarm](https://voinetwork.github.io/voi-swarm/getting-started/introduction/) 
 

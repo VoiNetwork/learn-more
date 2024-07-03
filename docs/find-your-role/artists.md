@@ -26,7 +26,7 @@ Key Responsibilities and Opportunities:
 
 # Your Quickstart
 
-Quick Start Guide:
+## Quick Start Guide:
 
 - Join our platforms 
     - [Discord](https://discord.gg/vnFbrJrHeW), [Telegram](https://t.me/VoiOfficial) & [Twitter](https://x.com/Voi_Net).
@@ -40,7 +40,7 @@ Quick Start Guide:
 - Introduce Yourself
     - [Meet your community](https://discord.com/channels/1055863853633785857/1232372948459847690)
 
-Key Projects:
+## Key Projects:
 
 - Wallets
     - [Kibisis](https://kibis.is/)
@@ -60,16 +60,12 @@ Key Projects:
 
 # Your Community
 
-Relevant Channels and Groups:
-
 - [NFT Chat](https://discord.com/channels/1055863853633785857/1232372948459847690)
 
 - [NFT Committee](../governance/committees/nfts.md)
 
 
 # Your Learning
-
-Educational Resources:
 
 - [Highforge video](https://www.youtube.com/watch?v=5InoN4joQMc) 
 
@@ -83,7 +79,7 @@ Each has its own benefits and opportunities.
 
 You can select other roles in Discord or look at some of the more advanced options.
 
-[Other Roles](https://discord.com/channels/1055863853633785857/1157678590196973728/1257675380454723604):
+## [Other Roles](https://discord.com/channels/1055863853633785857/1157678590196973728/1257675380454723604):
 
 - [Node Runners](node-runners.md): Become a part of the network! Run a node and keep Voi secure.
 
@@ -95,7 +91,7 @@ You can select other roles in Discord or look at some of the more advanced optio
 
 - NFTs: [Artists](artists.md) or [collectors](collectors.md) should grab the NFT role.
 
-Advanced Roles:
+## Advanced Roles:
 
 - [Ambassador](advanced/ambassadors.md): Represent Voi online.
 
@@ -109,8 +105,6 @@ Advanced Roles:
 
 
 # Your Resources
-
-Important links:
 
 - Wallet
     - [Kibisis](https://kibis.is/)

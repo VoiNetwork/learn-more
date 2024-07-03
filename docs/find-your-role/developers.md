@@ -26,7 +26,7 @@ Key Responsibilities and Opportunities:
 
 # Your Quickstart
 
-Quick Start Guide:
+## Quick Start Guide:
 
 - Join our platforms 
     - [Discord](https://discord.gg/vnFbrJrHeW), [Telegram](https://t.me/VoiOfficial) & [Twitter](https://x.com/Voi_Net).
@@ -47,15 +47,11 @@ Quick Start Guide:
 
 # Your Community
 
-Relevant Channels and Groups:
-
 - [Developers Chat](https://discord.com/channels/1055863853633785857/1157684453607493652)
 
 - [Builders Committee](../governance/committees/builders.md)
 
 # Your Learning
-
-Educational Resources:
 
 - [Official Docs](https://docs.voi.network/)
 
@@ -71,7 +67,7 @@ Each has its own benefits and opportunities.
 
 You can select other roles in Discord or look at some of the more advanced options.
 
-[Other Roles](https://discord.com/channels/1055863853633785857/1157678590196973728/1257675380454723604):
+## [Other Roles](https://discord.com/channels/1055863853633785857/1157678590196973728/1257675380454723604):
 
 - [Node Runners](node-runners.md): Become a part of the network! Run a node and keep Voi secure.
 
@@ -83,7 +79,7 @@ You can select other roles in Discord or look at some of the more advanced optio
 
 - NFTs: [Artists](artists.md) or [collectors](collectors.md) should grab the NFT role.
 
-Advanced Roles:
+## Advanced Roles:
 
 - [Ambassador](advanced/ambassadors.md): Represent Voi online.
 
@@ -97,8 +93,6 @@ Advanced Roles:
 
 
 # Your Resources
-
-Important links:
 
 - [Developer Discord Chat](https://discord.com/channels/1055863853633785857/1157684453607493652)
 
