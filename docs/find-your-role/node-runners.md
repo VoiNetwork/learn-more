@@ -18,9 +18,13 @@ As a Node Runner, your primary role is to operate and maintain a node within the
 This involves ensuring your node is consistently online, updated, and secure.
 
 Key Responsibilities and Opportunities:
+
 - Node Operation: Set up, configure, and maintain a Voi node.
+
 - Network Security: Help secure the network by validating transactions and blocks.
+
 - Community Support: Assist other Node Runners and share best practices.
+
 - Earning Rewards: Earn Voi tokens for your contributions to the network.
 
 
@@ -30,10 +34,13 @@ Quick Start Guide:
 
 - Join our platforms 
     - [Discord](https://discord.gg/vnFbrJrHeW), [Telegram](https://t.me/VoiOfficial) & [Twitter](https://x.com/Voi_Net).
+
 - Set Up Your Wallet
     - [Wallet](https://kibis.is/)
+
 - Set Up Your Node
     - [Voi Swarm](https://voinetwork.github.io/voi-swarm/getting-started/introduction/)
+
 -  Introduce Yourself
     - [Meet your community](https://discord.com/channels/1055863853633785857/1128672413048115250)
 
@@ -47,16 +54,19 @@ Detailed Setup Instructions:
     - Windows/MacOS (1 click)
         - [A1CN](https://github.com/AustP/austs-one-click-node) 
         - [Video Tutorial](https://www.youtube.com/watch?v=c3MBjUoUvrE) 
+
 - Use the faucet
     - Go to discord
     - Type `/voi`
     - Select the faucet bot
     - You only need 2000 Voi
+
 - Check your node is participating
     - [Node Finder](https://cswenor.github.io/voi-proposer-data/health.html) 
         - Find your node by its GUID and name on the "HOURLY' section. Ensure your node's health is greater than 5.
     - [Node Health Checker](https://voi-nodes.dev/) 
         - Use this website to ensure your node remains healthy for each week.
+
 - Check your node is earning you rewards
     - [Node Reward Auditor](https://voirewards.com/)
         - Lookup your node by your address to ensure you are earning points.
@@ -65,13 +75,17 @@ Detailed Setup Instructions:
 # Your Community
 
 Relevant Channels and Groups:
+
 - [Node Runner Chat](https://discord.com/channels/1055863853633785857/1128672413048115250) 
+
 - [Network Committee](../governance/committees/network.md)
 
 # Your Learning
 
 Educational Resources:
+
 - [Official Docs](https://docs.voi.network/)
+
 - [Nodes On Voi](../node-runners/overview.md)
 
 # Your Growth & Contribution
@@ -85,34 +99,46 @@ Each has its own benefits and opportunities.
 You can select other roles in Discord or look at some of the more advanced options.
 
 [Other Roles](https://discord.com/channels/1055863853633785857/1157678590196973728/1257675380454723604):
-- [Node Runners](node-runners.md)
-    - Become a part of the network! Run a node and keep Voi secure.
-- [Developer](developers.md)
-    - If you know how to code or are looking to learn then become a Voi developer.
-- [Builder](builders.md)
-    - If you want to create a project that is used by people in the ecosystem then be a builder.
-- [DeFi](traders.md)
-    - Perfect if you want to trade or get involved with all things defi.
-- NFTs
-    - [Artists](artists.md) or [collectors](collectors.md) should grab the NFT role.
 
-Advanced Contribution:
+- [Node Runners](node-runners.md): Become a part of the network! Run a node and keep Voi secure.
+
+- [Developer](developers.md): If you know how to code or are looking to learn then become a Voi developer.
+
+- [Builder](builders.md): If you want to create a project that is used by people in the ecosystem then be a builder.
+
+- [DeFi](traders.md): Perfect if you want to trade or get involved with all things defi.
+
+- NFTs: [Artists](artists.md) or [collectors](collectors.md) should grab the NFT role.
+
+Advanced Roles:
+
 - [Ambassador](advanced/ambassadors.md): Represent Voi online.
+
 - [Moderator](advanced/moderators.md): Help moderate community discussions.
+
 - [Governor](advanced/governors.md): Participate in governance and decision-making processes.
+
 - [Core Partner](advanced/core-partners.md): Tackle problems faced by the ecosystem in the way you know best.
+
 - [Relay Runner](advanced/relay-runners.md): For advanced node runners that want to run more powerful nodes.
 
 
 # Your Resources
 
 Important links:
+
 - [Getting Started - Voi Swarm](https://voinetwork.github.io/voi-swarm/getting-started/introduction/) 
+
 - [Installation - Voi Swarm](https://voinetwork.github.io/voi-swarm/installation/installation/) 
+
 - [A1CN](https://github.com/AustP/austs-one-click-node) 
+
 - [Node Fider](https://cswenor.github.io/voi-proposer-data/health.html) 
+
 - [Node Health Checker](https://voi-nodes.dev/) 
+
 - [Node Reward Auditor](https://voirewards.com/) 
+
 - [Node Docs](../node-runners/overview.md)
 
 # Your Feedback

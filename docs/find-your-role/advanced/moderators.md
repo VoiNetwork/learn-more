@@ -14,24 +14,34 @@ Moderators are the guardians of our community. Your efforts in managing discussi
 As a Moderator, your primary role is to oversee community interactions, enforce guidelines, and support community members. This involves monitoring discussions, resolving conflicts, and ensuring a positive experience for all members.
 
 Key Responsibilities and Opportunities:
+
 - Community Management: Monitor and manage community interactions to ensure adherence to guidelines.
+
 - Conflict Resolution: Address and resolve conflicts or issues that arise within the community.
+
 - Support: Provide assistance to community members and answer their questions.
+
 - Event Participation: Help organize and manage community events.
 
 
 # Your Quickstart
 
 Quick Start Guide:
+
 - Join our platforms 
     - [Discord](https://discord.gg/vnFbrJrHeW), [Telegram](https://t.me/VoiOfficial) & [Twitter](https://x.com/Voi_Net).
+
 - Set Up Your Wallet
     - [Wallet](https://kibis.is/)
+
 - Explore the Ecosystem
     - [Ecosystem Directory](https://airtable.com/apphFYuejZFJJG0i6/shru2v6BXxUaAEU7O)
+
 - Register
     - [https://forms.gle/sAZey5LCLPbZfvfr7](https://forms.gle/sAZey5LCLPbZfvfr7) 
+
 - Get accepted
+
 - Introduce Yourself
     - [Meet your community](https://discord.com/channels/1055863853633785857/1128671715673780264)
 
@@ -39,14 +49,18 @@ Quick Start Guide:
 # Your Community
 
 Relevant Channels and Groups:
+
 - [Voiagers Chat](https://discord.com/channels/1055863853633785857/1128671715673780264)
+
 - [Telegram Chat](https://t.me/VoiOfficial)
+
 - [Twitter](https://x.com/Voi_Net) Hashtags - #voiagers
 
 
 # Your Learning
 
 Educational Resources:
+
 - [Official Docs](https://docs.voi.network/)
 
 # Your Growth & Contribution
@@ -60,22 +74,27 @@ Each has its own benefits and opportunities.
 You can select other roles in Discord or look at some of the more advanced options.
 
 [Other Roles](https://discord.com/channels/1055863853633785857/1157678590196973728/1257675380454723604):
-- [Node Runners](../node-runners.md)
-    - Become a part of the network! Run a node and keep Voi secure.
-- [Developer](../developers.md)
-    - If you know how to code or are looking to learn then become a Voi developer.
-- [Builder](../builders.md)
-    - If you want to create a project that is used by people in the ecosystem then be a builder.
-- [DeFi](../traders.md)
-    - Perfect if you want to trade or get involved with all things defi.
-- NFTs
-    - [Artists](../artists.md) or [collectors](../collectors.md) should grab the NFT role.
 
-Advanced Contribution:
+- [Node Runners](../node-runners.md): Become a part of the network! Run a node and keep Voi secure.
+
+- [Developer](../developers.md): If you know how to code or are looking to learn then become a Voi developer.
+
+- [Builder](../builders.md): If you want to create a project that is used by people in the ecosystem then be a builder.
+
+- [DeFi](../traders.md): Perfect if you want to trade or get involved with all things defi.
+
+- NFTs: [Artists](../artists.md) or [collectors](../collectors.md) should grab the NFT role.
+
+Advanced Roles:
+
 - [Ambassador](ambassadors.md): Represent Voi online.
+
 - [Moderator](moderators.md): Help moderate community discussions.
+
 - [Governor](governors.md): Participate in governance and decision-making processes.
+
 - [Core Partner](core-partners.md): Tackle problems faced by the ecosystem in the way you know best.
+
 - [Relay Runner](relay-runners.md): For advanced node runners that want to run more powerful nodes.
 
 
@@ -83,6 +102,7 @@ Advanced Contribution:
 # Your Resources
 
 Important links:
+
 - [Link Tree](https://linktr.ee/voi_network) 
 
 # Your Feedback
