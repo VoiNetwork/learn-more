@@ -14,48 +14,48 @@ NFT Artists are the creative force behind our digital ecosystem. Your artwork an
 As an NFT Artist, your primary role is to create, mint, and sell digital art within the Voi ecosystem. This involves engaging with marketplaces, promoting your work, and connecting with collectors and fans.
 
 Key Responsibilities and Opportunities:
-* Creating Art: Produce unique and compelling digital art.
-* Minting NFTs: Convert your art into NFTs on the blockchain.
-* Selling and Promoting: Sell your NFTs on marketplaces and launchpads while promoting your work.
-* Community Engagement: Engage with the NFT community, participate in events, and collaborate with other artists.
+- Creating Art: Produce unique and compelling digital art.
+- Minting NFTs: Convert your art into NFTs on the blockchain.
+- Selling and Promoting: Sell your NFTs on marketplaces and launchpads while promoting your work.
+- Community Engagement: Engage with the NFT community, participate in events, and collaborate with other artists.
 
 
 # Your Quickstart
 
 Quick Start Guide:
-* Join our platforms 
-    * [Discord](https://discord.gg/vnFbrJrHeW), [Telegram](https://t.me/VoiOfficial) & [Twitter](https://x.com/Voi_Net).
-* Set Up Your Wallet
-    * [Wallet](https://kibis.is/)
-* Explore the Ecosystem
-    * [Ecosystem Directory](https://airtable.com/apphFYuejZFJJG0i6/shru2v6BXxUaAEU7O)
-* Introduce Yourself
-    * [Meet your community](https://discord.com/channels/1055863853633785857/1232372948459847690)
+- Join our platforms 
+    - [Discord](https://discord.gg/vnFbrJrHeW), [Telegram](https://t.me/VoiOfficial) & [Twitter](https://x.com/Voi_Net).
+- Set Up Your Wallet
+    - [Wallet](https://kibis.is/)
+- Explore the Ecosystem
+    - [Ecosystem Directory](https://airtable.com/apphFYuejZFJJG0i6/shru2v6BXxUaAEU7O)
+- Introduce Yourself
+    - [Meet your community](https://discord.com/channels/1055863853633785857/1232372948459847690)
 
 Key Projects:
-* Wallets
-    * [Kibisis](https://kibis.is/)
-* Explorers
-    * [AVMExplorer](https://avmexplorer.com/)
-    * [Voi Observer](https://voi.observer/explorer/home)
-* Marketplace
-    * [Nautilus](https://nautilus.sh/)
-* Launchpad
-    * [Highforge](https://highforge.io/explore)
-* NFT Discovery
-    * [NFT Navigator](https://nftnavigator.xyz/)
+- Wallets
+    - [Kibisis](https://kibis.is/)
+- Explorers
+    - [AVMExplorer](https://avmexplorer.com/)
+    - [Voi Observer](https://voi.observer/explorer/home)
+- Marketplace
+    - [Nautilus](https://nautilus.sh/)
+- Launchpad
+    - [Highforge](https://highforge.io/explore)
+- NFT Discovery
+    - [NFT Navigator](https://nftnavigator.xyz/)
 
 # Your Community
 
 Relevant Channels and Groups:
-* [NFT Chat](https://discord.com/channels/1055863853633785857/1232372948459847690)
-* [NFT Committee](../governance/committees/nfts.md)
+- [NFT Chat](https://discord.com/channels/1055863853633785857/1232372948459847690)
+- [NFT Committee](../governance/committees/nfts.md)
 
 
 # Your Learning
 
 Educational Resources:
-* [Highforge video](https://www.youtube.com/watch?v=5InoN4joQMc) 
+- [Highforge video](https://www.youtube.com/watch?v=5InoN4joQMc) 
 
 # Your Growth & Contribution
 
@@ -68,33 +68,33 @@ Each has its own benefits and opportunities.
 You can select other roles in Discord or look at some of the more advanced options.
 
 [Other Roles](https://discord.com/channels/1055863853633785857/1157678590196973728/1257675380454723604):
-* [Node Runners](node-runners.md)
-    * Become a part of the network! Run a node and keep Voi secure.
-* [Developer](developers.md)
-    * If you know how to code or are looking to learn then become a Voi developer.
-* [Builder](builders.md)
-    * If you want to create a project that is used by people in the ecosystem then be a builder.
-* [DeFi](traders.md)
-    * Perfect if you want to trade or get involved with all things defi.
-* NFTs
-    * [Artists](artists.md) or [collectors](collectors.md) should grab the NFT role.
+- [Node Runners](node-runners.md)
+    - Become a part of the network! Run a node and keep Voi secure.
+- [Developer](developers.md)
+    - If you know how to code or are looking to learn then become a Voi developer.
+- [Builder](builders.md)
+    - If you want to create a project that is used by people in the ecosystem then be a builder.
+- [DeFi](traders.md)
+    - Perfect if you want to trade or get involved with all things defi.
+- NFTs
+    - [Artists](artists.md) or [collectors](collectors.md) should grab the NFT role.
 
 Advanced Contribution:
-* [Ambassador](advanced/ambassadors.md): Represent Voi online.
-* [Moderator](advanced/moderators.md): Help moderate community discussions.
-* [Governor](advanced/governors.md): Participate in governance and decision-making processes.
-* [Core Partner](advanced/core-partners.md): Tackle problems faced by the ecosystem in the way you know best.
-* [Relay Runner](advanced/relay-runners.md): For advanced node runners that want to run more powerful nodes.
+- [Ambassador](advanced/ambassadors.md): Represent Voi online.
+- [Moderator](advanced/moderators.md): Help moderate community discussions.
+- [Governor](advanced/governors.md): Participate in governance and decision-making processes.
+- [Core Partner](advanced/core-partners.md): Tackle problems faced by the ecosystem in the way you know best.
+- [Relay Runner](advanced/relay-runners.md): For advanced node runners that want to run more powerful nodes.
 
 
 # Your Resources
 
-* Wallet
-    * [Kibisis](https://kibis.is/)
-* Marketplace
-    * [Nautilus](https://nautilus.sh/)
-* Launchpad
-    * [Highforge](https://highforge.io/explore)
+- Wallet
+    - [Kibisis](https://kibis.is/)
+- Marketplace
+    - [Nautilus](https://nautilus.sh/)
+- Launchpad
+    - [Highforge](https://highforge.io/explore)
 
 # Your Feedback
 
