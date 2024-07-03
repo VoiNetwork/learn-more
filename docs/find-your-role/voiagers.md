@@ -26,7 +26,7 @@ Key Responsibilities and Opportunities:
 
 # Your Quickstart
 
-Quick Start Guide:
+## Quick Start Guide
 
 - Join our platforms 
     - [Discord](https://discord.gg/vnFbrJrHeW), [Telegram](https://t.me/VoiOfficial) & [Twitter](https://x.com/Voi_Net).
@@ -40,7 +40,7 @@ Quick Start Guide:
 - Introduce Yourself
     - [Meet your community](https://discord.com/channels/1055863853633785857/1128671715673780264)
 
-Key Projects:
+## Key Projects
 
 - Wallets
     - [Kibisis](https://kibis.is/)
@@ -65,8 +65,6 @@ Key Projects:
 
 # Your Community
 
-Relevant Channels and Groups:
-
 - [Voiagers Chat](https://discord.com/channels/1055863853633785857/1128671715673780264)
 
 - [Telegram Chat](https://t.me/VoiOfficial)
@@ -75,8 +73,6 @@ Relevant Channels and Groups:
 
 
 # Your Learning
-
-Educational Resources:
 
 - [Official Docs](https://docs.voi.network/)
 
@@ -90,24 +86,19 @@ Each has its own benefits and opportunities.
 
 You can select other roles in Discord or look at some of the more advanced options.
 
-[Other Roles](https://discord.com/channels/1055863853633785857/1157678590196973728/1257675380454723604):
+## [Other Roles](https://discord.com/channels/1055863853633785857/1157678590196973728/1257675380454723604):
 
-- [Node Runners](node-runners.md)
-    - Become a part of the network! Run a node and keep Voi secure.
+- [Node Runners](node-runners.md): Become a part of the network! Run a node and keep Voi secure.
 
-- [Developer](developers.md)
-    - If you know how to code or are looking to learn then become a Voi developer.
+- [Developer](developers.md): If you know how to code or are looking to learn then become a Voi developer.
 
-- [Builder](builders.md)
-    - If you want to create a project that is used by people in the ecosystem then be a builder.
+- [Builder](builders.md): If you want to create a project that is used by people in the ecosystem then be a builder.
 
-- [DeFi](traders.md)
-    - Perfect if you want to trade or get involved with all things defi.
+- [DeFi](traders.md): Perfect if you want to trade or get involved with all things defi.
 
-- NFTs
-    - [Artists](artists.md) or [collectors](collectors.md) should grab the NFT role.
+- NFTs: [Artists](artists.md) or [collectors](collectors.md) should grab the NFT role.
 
-Advanced Contribution:
+## Advanced Roles:
 
 - [Ambassador](advanced/ambassadors.md): Represent Voi online.
 
@@ -122,10 +113,7 @@ Advanced Contribution:
 
 # Your Resources
 
-Important links:
-
 - [link Tree](https://linktr.ee/voi_network) 
-
 
 # Your Feedback
 
