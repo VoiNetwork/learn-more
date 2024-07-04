@@ -63,14 +63,11 @@ Key Responsibilities and Opportunities:
     - You only need 2000 Voi
 
 - Check your node is participating
-    - [Node Finder](https://cswenor.github.io/voi-proposer-data/health.html) 
-        - Find your node by its GUID and name on the "HOURLY' section. Ensure your node's health is greater than 5.
-    - [Node Health Checker](https://voi-nodes.dev/) 
-        - Use this website to ensure your node remains healthy for each week.
+    - [Node Finder](https://cswenor.github.io/voi-proposer-data/health.html): Find your node by its GUID and name on the "HOURLY' section. Ensure your node's health is greater than 5.
+    - [Node Health Checker](https://voi-nodes.dev/): Use this website to ensure your node remains healthy for each week.
 
 - Check your node is earning you rewards
-    - [Node Reward Auditor](https://voirewards.com/)
-        - Lookup your node by your address to ensure you are earning points.
+    - [Node Reward Auditor](https://voirewards.com/): Lookup your node by your address to ensure you are earning points.
 
 
 # Your Community
