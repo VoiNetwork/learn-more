@@ -6,11 +6,11 @@ We are leading the next generation of community-driven blockchains (CDBs).
 
 Unlike other networks, Voi ensures that the value is held within the community, not just the technology.
 
-**Built by users:** Voi’s ecosystem is created by the community, leveraging the collective expertise and passion of its members. This ensures that Voi evolves to meet the real needs of its users, fostering innovation and adaptability from the ground up.
+**Built by You:** Voi’s ecosystem is created by the community, leveraging the collective expertise and passion of its members. This ensures that Voi evolves to meet the real needs of its users, fostering innovation and adaptability from the ground up.
 
-**Run by users:** Our democratic governance framework empowers the community to make key decisions. Voi’s Council, elected by token holders, guides the network’s direction and investments, ensuring that those who contribute to the ecosystem have a say in its future.
+**Run by You:** Our democratic governance framework empowers the community to make key decisions. Voi’s Council, elected by token holders, guides the network’s direction and investments, ensuring that those who contribute to the ecosystem have a say in its future.
 
-**Owned by users:** At Voi, 75% of the ecosystem's tokens are reserved for community members who actively contribute to the network. This ensures that the people driving the ecosystem forward are the ones who benefit the most, promoting true ownership and shared success.
+**Owned by You:** At Voi, 75% of the ecosystem's tokens are reserved for community members who actively contribute to the network. This ensures that the people driving the ecosystem forward are the ones who benefit the most, promoting true ownership and shared success.
 
 **Join the Revolution!**
 
