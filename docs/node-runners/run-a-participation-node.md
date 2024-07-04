@@ -12,6 +12,3 @@ Node running options:
 * [Aust’s 1 Click Node](https://github.com/AustP/austs-one-click-node)
     * For use on any local device with a graphical interface such as a laptop running windows, MacOS or Linux.
     * Installable application.
-* Custom
-    * Setup manually however you wish.
-    * Guides such as [D13’s](https://d13.co/posts/set-up-voi-participation-node/) exist.
