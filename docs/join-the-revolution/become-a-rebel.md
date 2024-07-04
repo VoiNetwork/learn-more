@@ -12,9 +12,7 @@ Unlike other networks, Voi ensures that the value is held within the community, 
 
 **Owned by You:** At Voi, 75% of the ecosystem's tokens are reserved for community members who actively contribute to the network. This ensures that the people driving the ecosystem forward are the ones who benefit the most, promoting true ownership and shared success.
 
-**Join the Revolution!**
-
-[Become A Rebel](https://discord.com/channels/1055863853633785857/1157678590196973728/1257675380454723604)
+[**Join the Revolution!**](https://discord.com/channels/1055863853633785857/1157678590196973728/1257675380454723604)
 
 # Roles Overview
 
