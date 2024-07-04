@@ -1,11 +1,10 @@
 # NFT Committee
 
-[Join Now](https://forms.gle/vDt1sgkrm671Uc9q6)
-
 ## Purpose
 
 The NFT Committee represents NFT creators, artists, and collectors within our ecosystem. This committee promotes the growth and diversity of the NFT space, ensuring that creators and collectors have a platform for collaboration, support, and a voice in the ecosystem.
 
+[Join Now](https://forms.gle/vDt1sgkrm671Uc9q6)
 
 ## Objectives
 

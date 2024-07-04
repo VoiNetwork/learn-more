@@ -1,11 +1,10 @@
 # Network Committee
 
-[Join Now](https://forms.gle/Y3MbAhdJbYgkXmzs7)
-
 ## Purpose
 
 The Network Committee represents the network's health and node runners, both participation and relay, within our ecosystem. This committee focuses on network stability, security, and the technical aspects of blockchain infrastructure while ensuring that node runners have representation, a voice and a communication channel.
 
+[Join Now](https://forms.gle/Y3MbAhdJbYgkXmzs7)
 
 ## Objectives
 
