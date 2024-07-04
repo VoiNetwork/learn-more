@@ -10,6 +10,7 @@ Voiagers are the heartbeat of our community. You play a critical role in using a
 
 Your engagement and enthusiasm helps to improve and expand your ecosystem and community.
 
+[Become A Voiager](https://discord.com/channels/1055863853633785857/1157678590196973728/1257675380454723604)
 
 # Being a Voiager
 

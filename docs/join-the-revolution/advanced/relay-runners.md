@@ -8,6 +8,7 @@ At Voi, our mission is to make blockchain technology accessible and beneficial f
 
 Relay Runners are the backbone of our network infrastructure. Your participation ensures the integrity, security, and efficiency of the Voi network by running powerful nodes and relays that support the overall ecosystem.
 
+[Become A Relay Runner](https://forms.gle/jDaZo9Sd5BYjh21n7) 
 
 # Being a Relay Runner
 

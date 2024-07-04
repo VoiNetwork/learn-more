@@ -14,6 +14,8 @@ Unlike other networks, Voi ensures that the value is held within the community, 
 
 **Join the Revolution!**
 
+[Become A Rebel](https://discord.com/channels/1055863853633785857/1157678590196973728/1257675380454723604)
+
 # Roles Overview
 
 The Voi ecosystem thrives on the diverse contributions of our community members.

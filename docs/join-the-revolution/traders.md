@@ -7,6 +7,7 @@ At Voi, our mission is to make blockchain technology accessible and beneficial f
 
 Traders are the financial pioneers of our ecosystem. Your trading activities and strategies help create a vibrant, liquid, and efficient market for Voi tokens and DeFi applications. By participating in trading and providing liquidity, you help ensure the stability and growth of our financial ecosystem.
 
+[Become A Trader](https://discord.com/channels/1055863853633785857/1157678590196973728/1257675380454723604)
 
 # Being a Trader
 

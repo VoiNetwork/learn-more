@@ -8,6 +8,7 @@ At Voi, our mission is to make blockchain technology accessible and beneficial f
 
 Builders & Entrepreneurs are the visionaries and creators of our ecosystem. Your initiatives and projects drive innovation, attract users, and create value within the Voi network. By building applications, platforms, and businesses, you help make Voi a thriving and sustainable ecosystem.
 
+[Become A Builder](https://discord.com/channels/1055863853633785857/1157678590196973728/1257675380454723604)
 
 # Being a Builder
 

@@ -8,6 +8,7 @@ At Voi, our mission is to make blockchain technology accessible and beneficial f
 
 NFT Collectors are the patrons and connoisseurs of our digital ecosystem. Your engagement helps foster a thriving market for digital art and assets, providing artists with support and promoting the cultural and economic value of NFTs within Voi.
 
+[Become A Collector](https://discord.com/channels/1055863853633785857/1157678590196973728/1257675380454723604)
 
 # Being a Collector
 

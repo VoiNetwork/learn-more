@@ -10,6 +10,8 @@ Core Partners are the strategic leaders and problem-solvers of our community. Yo
 
 Typically Core partners may wish to create DAOs that collectively tackle problems faced by the ecosystem such as marketing, network health or other big picture issues.
 
+[Become A Core Partner](mailto:projectinquiry@voi.network)
+
 # Being a Core Partner
 
 As a Core Partner, your primary role is to lead and contribute to significant projects and initiatives within the Voi ecosystem. This involves strategic planning, project management, collaboration, and problem-solving.

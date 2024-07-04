@@ -8,6 +8,7 @@ At Voi, our mission is to make blockchain technology accessible and beneficial f
 
 Moderators are the guardians of our community. Your efforts in managing discussions, enforcing guidelines, and supporting members are essential to creating a welcoming and productive environment for everyone.
 
+[Become A Moderator](https://forms.gle/sAZey5LCLPbZfvfr7) 
 
 # Being an Moderator
 

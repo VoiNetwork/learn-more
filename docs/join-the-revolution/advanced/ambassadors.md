@@ -8,6 +8,8 @@ At Voi, our mission is to make blockchain technology accessible and beneficial f
 
 Ambassadors are the face of Voi. Your efforts in spreading the word about Voi, engaging with potential users, and representing our values are crucial for our growth and success. By connecting with communities, hosting events, and promoting Voi, you help drive awareness and adoption.
 
+[Become An Ambassador](https://t.co/9pyPp6pFCu) 
+
 # Being an Ambassador
 
 As an Ambassador, your primary role is to represent Voi in various forums, events, and platforms. This involves engaging with potential users, hosting events, creating content, and acting as a liaison between Voi and external communities.

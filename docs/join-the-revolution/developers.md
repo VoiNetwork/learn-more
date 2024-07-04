@@ -8,6 +8,7 @@ At Voi, our mission is to make blockchain technology accessible and beneficial f
 
 Developers are the architects of our ecosystem. Your contributions ensure the continuous growth, security, and functionality of the Voi network. By developing applications, tools, and protocols, you help drive innovation and make Voi a robust and versatile platform.
 
+[Become A Developer](https://discord.com/channels/1055863853633785857/1157678590196973728/1257675380454723604)
 
 # Being a Developer
 

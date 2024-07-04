@@ -8,6 +8,7 @@ At Voi, our mission is to make blockchain technology accessible and beneficial f
 
 Governors are the decision-makers of our community. Your contributions in governance help ensure that the Voi ecosystem remains fair, transparent, and aligned with the community’s needs and values.
 
+[Become A Governor](../../governance/committees/overview.md) 
 
 # Being a Governor
 

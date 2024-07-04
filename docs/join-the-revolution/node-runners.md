@@ -10,6 +10,8 @@ Node Runners are the backbone of our blockchain network. Your participation ensu
 
 We love node runners so much that 10% of the total supply goes towards block rewards.
 
+[Become A Node Runner](https://discord.com/channels/1055863853633785857/1157678590196973728/1257675380454723604)
+
 # Being a Node Runner
 
 As a Node Runner, your primary role is to operate and maintain a node within the Voi network. 

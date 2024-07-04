@@ -8,6 +8,7 @@ At Voi, our mission is to make blockchain technology accessible and beneficial f
 
 NFT Artists are the creative force behind our digital ecosystem. Your artwork and creations help drive the cultural and economic value of NFTs within Voi. By producing and selling digital art, you contribute to a vibrant and diverse marketplace.
 
+[Become An Artist](https://discord.com/channels/1055863853633785857/1157678590196973728/1257675380454723604)
 
 # Being an NFT Artist
 
