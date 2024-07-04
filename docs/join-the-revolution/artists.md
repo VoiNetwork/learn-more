@@ -63,7 +63,7 @@ Key Responsibilities and Opportunities:
 
 - [NFT Chat](https://discord.com/channels/1055863853633785857/1232372948459847690)
 
-- [NFT Committee](../governance/committees/nfts.md)
+- [Culture Committee](../governance/committees/nfts.md)
 
 
 # Your Learning

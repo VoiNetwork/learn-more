@@ -22,9 +22,9 @@ Purpose: Represent developers, entrepreneurs, and builders, fostering innovation
 [Overview](builders.md) |[ Register Here](https://forms.gle/wc7pFCUsSBm3yoEB6)
 
 
-## NFT Committee
+## Culture Committee
 
-Purpose: Represent NFT creators, artists, and collectors, promoting growth and diversity in the NFT space.
+Purpose: Represents the diverse cultural aspects, artistic and creative expressions within our ecosystem.
 
 [Overview](nfts.md) |[ Register Here](https://forms.gle/vDt1sgkrm671Uc9q6)
 
