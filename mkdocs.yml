@@ -96,7 +96,7 @@ extra_css:
 
 nav:
   - Voi Chain:
-      - Overview: index.md
+      - Voi: index.md
       - Using Voi:
           - Create A Wallet: using-voi/create-a-wallet.md
           - Build On Voi: using-voi/build-on-voi.md
@@ -113,22 +113,22 @@ nav:
           - Smart Contracts: understanding-voi/smart-contracts.md
           - Smart Signatures: understanding-voi/smart-signatures.md
           - Virtual Machine: understanding-voi/virtual-machine.md
-  - Ecosystem:
+  - Voi Ecosystem:
       - Wallets: ecosystem/wallets.md
       - Community: ecosystem/community.md
       - Projects: ecosystem/projects.md
       - Tokenomics: ecosystem/tokenomics.md
       #- Roadmap: ecosystem/roadmap.md
-  - Governance:
-      - Overview: governance/governance.md
+  - Voi Governance:
+      - Governance Overview: governance/governance.md
       - Committees:
-          - Overview: governance/committees/overview.md
+          - Committees Overview: governance/committees/overview.md
           - Network: governance/committees/network.md
           - Builders: governance/committees/builders.md
           - NFTs: governance/committees/nfts.md
           - DeFi: governance/committees/defi.md
       - Submitting Proposals: governance/submitting-proposals.md
-  - Developers:
+  - Building On Voi:
       - Start Here: developers/start-here.md
       - Interacting With Voi Blockchain:
           - Overview: developers/interacting-with-voi-blockchain.md
@@ -138,20 +138,22 @@ nav:
       - Smart Contracts: developers/smart-contracts.md
       - Tools: developers/tools.md
       - Networks: developers/networks.md
-  - Node Runners:
-      - Overview: node-runners/overview.md
+  - Nodes On Voi:
+      - Nodes Overview: node-runners/overview.md
       - Participation:
           - Run A Node: node-runners/run-a-participation-node.md
       - Relay:
           - Become A Relay Runner: node-runners/become-a-relay-runner.md
-  - Find Your Role:
-      - Voiagers: find-your-role/voiagers.md
-      - Node Runners: find-your-role/node-runners.md
-      - Developers: find-your-role/developers.md
-      - Builders: find-your-role/builders.md
-      - Traders: find-your-role/traders.md
-      - Artists: find-your-role/artists.md
-      - Collectors: find-your-role/collectors.md
+  - Join The Revolution:
+      - Become A Rebel: find-your-role/roles.md
+      - Popular: 
+          - Voiagers: find-your-role/voiagers.md
+          - Node Runners: find-your-role/node-runners.md
+          - Developers: find-your-role/developers.md
+          - Builders: find-your-role/builders.md
+          - Traders: find-your-role/traders.md
+          - Artists: find-your-role/artists.md
+          - Collectors: find-your-role/collectors.md
       - Advanced:
           - Ambassadors: find-your-role/advanced/ambassadors.md
           - Moderators: find-your-role/advanced/moderators.md
