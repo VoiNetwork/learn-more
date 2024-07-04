@@ -86,71 +86,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.voi.network/find-your-role/artists/</loc>
-         <lastmod>2024-07-04</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.voi.network/find-your-role/builders/</loc>
-         <lastmod>2024-07-04</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.voi.network/find-your-role/collectors/</loc>
-         <lastmod>2024-07-04</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.voi.network/find-your-role/developers/</loc>
-         <lastmod>2024-07-04</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.voi.network/find-your-role/node-runners/</loc>
-         <lastmod>2024-07-04</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.voi.network/find-your-role/roles/</loc>
-         <lastmod>2024-07-04</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.voi.network/find-your-role/traders/</loc>
-         <lastmod>2024-07-04</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.voi.network/find-your-role/voiagers/</loc>
-         <lastmod>2024-07-04</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.voi.network/find-your-role/advanced/ambassadors/</loc>
-         <lastmod>2024-07-04</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.voi.network/find-your-role/advanced/core-partners/</loc>
-         <lastmod>2024-07-04</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.voi.network/find-your-role/advanced/governors/</loc>
-         <lastmod>2024-07-04</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.voi.network/find-your-role/advanced/moderators/</loc>
-         <lastmod>2024-07-04</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.voi.network/find-your-role/advanced/relay-runners/</loc>
-         <lastmod>2024-07-04</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://docs.voi.network/governance/governance/</loc>
          <lastmod>2024-07-04</lastmod>
          <changefreq>daily</changefreq>
@@ -182,6 +117,71 @@
     </url>
     <url>
          <loc>https://docs.voi.network/governance/committees/overview/</loc>
+         <lastmod>2024-07-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.voi.network/join-the-revolution/artists/</loc>
+         <lastmod>2024-07-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.voi.network/join-the-revolution/become-a-rebel/</loc>
+         <lastmod>2024-07-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.voi.network/join-the-revolution/builders/</loc>
+         <lastmod>2024-07-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.voi.network/join-the-revolution/collectors/</loc>
+         <lastmod>2024-07-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.voi.network/join-the-revolution/developers/</loc>
+         <lastmod>2024-07-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.voi.network/join-the-revolution/node-runners/</loc>
+         <lastmod>2024-07-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.voi.network/join-the-revolution/traders/</loc>
+         <lastmod>2024-07-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.voi.network/join-the-revolution/voiagers/</loc>
+         <lastmod>2024-07-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.voi.network/join-the-revolution/advanced/ambassadors/</loc>
+         <lastmod>2024-07-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.voi.network/join-the-revolution/advanced/core-partners/</loc>
+         <lastmod>2024-07-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.voi.network/join-the-revolution/advanced/governors/</loc>
+         <lastmod>2024-07-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.voi.network/join-the-revolution/advanced/moderators/</loc>
+         <lastmod>2024-07-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.voi.network/join-the-revolution/advanced/relay-runners/</loc>
          <lastmod>2024-07-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
