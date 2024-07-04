@@ -1,5 +1,7 @@
 # DeFi Committee
 
+[Join Now](https://forms.gle/zaN1ntVDwniGyFov8)
+
 ## Purpose
 
 The DeFi Committee represents traders and participants in decentralized finance projects within our ecosystem. This committee focuses on growth, innovation, and security in the DeFi space, ensuring that DeFi participants have a platform for collaboration, support, and a voice in the ecosystem.

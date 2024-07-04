@@ -1,5 +1,7 @@
 # Builders Committee
 
+[Join Now](https://forms.gle/wc7pFCUsSBm3yoEB6)
+
 ## Purpose
 
 The Builders Committee represents developers, entrepreneurs, and other builders within our ecosystem. This committee fosters innovation and development, ensuring that builders have a platform for collaboration, support, and a voice in the ecosystem.
