@@ -90,7 +90,7 @@ Moderators maintain a positive and inclusive environment within the community. T
 
 Governors are the decision-makers of Voi. They participate in governance, vote on proposals, and contribute to policy discussions, ensuring the ecosystem remains fair, transparent, and aligned with the community’s needs and values.
 
-[Learn More](advanced/governors.md) [ Become A Governor](../../governance/committees/overview.md) 
+[Learn More](advanced/governors.md) | [ Become A Governor](../governance/committees/overview.md) 
 
 ### Core Partners
 
