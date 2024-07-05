@@ -86,7 +86,7 @@ Key Responsibilities and Opportunities:
 
 After familiarizing yourself with the ecosystem, you may wish to get involved on a deeper level. 
 
-There are a number of ways to do this, and you are not restricted to just one. 
+There are a number of ways to do this, and you are not restricted to just one role. 
 
 Each has its own benefits and opportunities. 
 
