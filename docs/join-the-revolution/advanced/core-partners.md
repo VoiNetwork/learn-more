@@ -53,29 +53,7 @@ Each has its own benefits and opportunities.
 
 You can select other roles in Discord or look at some of the more advanced options.
 
-## [Other Roles](https://discord.com/channels/1055863853633785857/1157678590196973728/1257675380454723604):
-- [Node Runner](../node-runners.md): Become a part of the network! Run a node and keep Voi secure.
-
-- [Developer](../developers.md): If you know how to code or are looking to learn then become a Voi developer.
-
-- [Builder](../builders.md): If you want to create a project that is used by people in the ecosystem then be a builder.
-
-- [DeFi](../traders.md): Perfect if you want to trade or get involved with all things defi.
-
-- NFTs: [Artists](../artists.md) or [collectors](../collectors.md) should grab the NFT role.
-
-## Advanced Roles:
-
-- [Ambassador](ambassadors.md): Represent Voi online.
-
-- [Moderator](moderators.md): Help moderate community discussions.
-
-- [Governor](governors.md): Participate in governance and decision-making processes.
-
-- [Core Partner](core-partners.md): Tackle problems faced by the ecosystem in the way you know best.
-
-- [Relay Runner](relay-runners.md): For advanced node runners that want to run more powerful nodes.
-
+[More Roles](../become-a-rebel.md)
 
 # Your Resources
 
