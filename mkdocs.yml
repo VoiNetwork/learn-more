@@ -121,6 +121,8 @@ nav:
       #- Roadmap: ecosystem/roadmap.md
   - Voi Governance:
       - Governance Overview: governance/governance.md
+      #- Council:
+      #    - Overview: governance/council/overview.md
       - Committees:
           - Committees Overview: governance/committees/overview.md
           - Network: governance/committees/network.md
