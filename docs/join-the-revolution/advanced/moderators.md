@@ -10,7 +10,7 @@ Moderators are the guardians of our community. Your efforts in managing discussi
 
 [Become A Moderator](https://forms.gle/sAZey5LCLPbZfvfr7) 
 
-# Being an Moderator
+# Being a Moderator
 
 As a Moderator, your primary role is to oversee community interactions, enforce guidelines, and support community members. This involves monitoring discussions, resolving conflicts, and ensuring a positive experience for all members.
 
