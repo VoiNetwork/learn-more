@@ -9,6 +9,18 @@ Welcome to Voi, a revolutionary L1 blockchain designed to fulfill the promises o
 
 **Owned by You:** At Voi, 75% of the ecosystem's tokens are reserved for the community. This ensures that the people driving the ecosystem forward are the ones who benefit the most, promoting true ownership and shared success.
 
+## Why Choose Voi? Long-term Value for Supporters
+Voi offers compelling reasons for users to become and remain long-term supporters.
+
+### True Community Ownership
+Voi allocates 75% of its total token supply to the community, ensuring that the majority of tokens are held by those who actively contribute to the ecosystem. This model promotes real ownership and ensures that those driving the network's success are the ones who benefit most. The earned incentives model means that tokens are distributed based on actual contributions, creating a meritocratic system that values genuine involvement and effort.
+
+### Decentralized and Democratic Governance
+Voi’s governance framework is a pioneering tripartite system, including a community-elected legislative council, an executive branch managing the treasury, and a judicial branch for oversight. This structure ensures transparent, accountable, and decentralized decision-making, preventing any single entity from gaining undue control. Community members actively shape the ecosystem's future, ensuring decisions align with the collective interest.
+
+### Sustainable and Inclusive Ecosystem
+By emphasizing fair token distribution and community governance, Voi creates a sustainable and inclusive environment. The network's design encourages continuous participation and long-term engagement, making it a stable and thriving ecosystem for all stakeholders. Voi's approach not only ensures fairness but also fosters innovation and adaptability, positioning the ecosystem for long-term success.
+
 ## Empowering Communities
 Voi is dedicated to serving the multi-billion community infrastructure market, including memberships, loyalty programs, and event ticketing. Our ecosystem is designed for both Web3 and mainstream use cases, making blockchain technology accessible for everyday applications like gym memberships and beyond. We aim to equip communities with the power of Web3 without the typical cost, risk, and complexity.
 
@@ -26,6 +38,6 @@ In order to be truly decentralized the community follows a set of values to guid
 > - **Intentionality**: Ensure thoughtful, purpose-driven action, development, and communication inline with Voi’s broader mission and vision.
 
 ## Join the Voi Revolution
-Dive into our [white paper](https://drive.google.com/file/d/1gpZDpeoC3FAt-SAVS0B5Hq7bDdgnpE7R/view?usp=drive_link) to explore our vision and strategic plans in detail and follow our [twitter](https://x.com/Voi_Net) or join our [discord](https://discord.gg/voi-network) to stay up to date.
+Dive into our [white paper](https://docs.google.com/document/d/1UdVmLYs-BVxCBE-zC7LUIpmsbKZHGrCYu58gdIrZ-Ls/edit?usp=sharing) to explore our vision and strategic plans in detail and follow our [twitter](https://x.com/Voi_Net) or join our [discord](https://discord.gg/voi-network) to stay up to date.
 
 Read on to learn more about Voi's ecosystem, governance, tokenomics, and more.
