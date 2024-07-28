@@ -95,8 +95,8 @@ extra_css:
   - stylesheets/extra.css
 
 nav:
+  - Voi: index.md
   - Voi Chain:
-      - Voi: index.md
       - Using Voi:
           - Create A Wallet: using-voi/create-a-wallet.md
           - Build On Voi: using-voi/build-on-voi.md
