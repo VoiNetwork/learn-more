@@ -1,4 +1,4 @@
-# Voi’s Constitution - First Draft 
+# **Voi’s Constitution - First Draft**
 
 ## Mission
 
