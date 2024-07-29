@@ -1,7 +1,5 @@
 # **Voi Grants Program**
 
-## **Purpose of the Grants Program**
-
 The Voi Foundation's grants program aims to support and accelerate the development of innovative applications and projects within the Voi ecosystem. By providing funding, resources, and mentorship, the program empowers developers, marketers, and educators to create impactful solutions that align with Voi's mission and contribute to the growth and sustainability of the Voi community.
 
 
