@@ -1,9 +1,9 @@
-# **Voi Grants Program**
+# Voi Grants Program
 
 The Voi Foundation's grants program aims to support and accelerate the development of innovative applications and projects within the Voi ecosystem. By providing funding, resources, and mentorship, the program empowers developers, marketers, and educators to create impactful solutions that align with Voi's mission and contribute to the growth and sustainability of the Voi community.
 
 
-## **Types of Grants**
+## Types of Grants
 
 1. **Development Grants**
    
@@ -20,7 +20,7 @@ The Voi Foundation's grants program aims to support and accelerate the developme
     * **Education Grants**: To support the creation of educational content, curriculum, documentation, and other materials to enhance understanding of Voi and its ecosystem.
 
 
-## **Overview of Application Process**
+## Overview of Application Process
 
 1. **Applicant Registration**
     * Any applicant requesting funding within the Voi ecoystem will be required to create an account on Voi's Grants Portal. This portal will provide a detailed overviews of available grants, eligibility criteria, and resources for applicants including a schedule for what can be expected in terms of the grants review timeline and process. This portal is anticipated to be completed in 2025. In the interim, a more manual and temporary process will be implemented involving Voi's Google Drive.
@@ -40,7 +40,7 @@ The Voi Foundation's grants program aims to support and accelerate the developme
     * For fully implemented projects, the project team will be expected to make adjustments to their project based on feedback and continually monitor their project, ensuring long-term sustainability.
 
 
-## **Voi Coaching Program**
+## Voi Coaching Program
 
 The Voi Coaching Program is an integral part of the grants process, offering mentorship and support to applicants throughout their journey. Coaches assist with:
 
