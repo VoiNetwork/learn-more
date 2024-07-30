@@ -1,12 +1,10 @@
 # Committees
 
-An important part of being a member of a community driven blockchain, such as Voi, is to get involved in governance! 
+Committees are critical in providing support for both Voi's ecosystem and council members. Committee involvement is a great way to have your voice heard within the ecosystem, influence governance decision-making, and assume community leadership without the immense time commitment involved in being a council member. Committees are a critical component of realizing Voi's mission of being a a community driven blockchain! 
 
-Voi already has 4 committees setup with dozens of members already signed up to each, you should enroll with those that best align with you and your passions. 
+Voi currently has 4 committees setup - the Builders committe, the Network committe, the DeFi committee, and the Culture & Community committee. 
 
-This helps ensure that the Voi Council, consisting of community members, can best represent you and Voi's entire community! 
-
-These committees also serve as a grassroots entry way into higher level governance of Voi.
+These committees also serve as a grassroots entry way into higher level governance of Voi. Please register below if you are interersted to learn more and participate!
 
 ## Network Committee
 
@@ -22,7 +20,7 @@ Purpose: Represent developers, entrepreneurs, and builders, fostering innovation
 [Overview](builders.md) |[ Register Here](https://forms.gle/wc7pFCUsSBm3yoEB6)
 
 
-## Culture Committee
+## Culture & Community Committee
 
 Purpose: Represents the diverse cultural aspects, artistic and creative expressions within our ecosystem.
 
