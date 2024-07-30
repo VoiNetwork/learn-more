@@ -120,16 +120,25 @@ nav:
       - Tokenomics: ecosystem/tokenomics.md
       #- Roadmap: ecosystem/roadmap.md
   - Voi Governance:
-      - Governance Overview: governance/governance.md
-      #- Council:
-      #    - Overview: governance/council/overview.md
+      - Governance:
+          - Overview: governance/governance.md
+          - Council: governance/governance/council.md
+          - Treasure: governance/governance/treasure.md
+          - Judiciary: governance/governance/judiciary.md
+          - Checks and Balances: governance/governance/checks-and-balances.md
       - Committees:
-          - Committees Overview: governance/committees/overview.md
+          - Overview: governance/committees/overview.md
           - Network: governance/committees/network.md
           - Builders: governance/committees/builders.md
           - Culture: governance/committees/nfts.md
           - DeFi: governance/committees/defi.md
-      - Submitting Proposals: governance/submitting-proposals.md
+      - Submitting Proposals:
+          - Overview: governance/submitting-proposals.md
+          - Types of Grants: governance/proposals/types-of-grants.md
+          - Application Process: governance/proposals/application-process.md
+          - Grants Calendar: governance/proposals/grants-calendar.md
+          - Milestone Reporting: governance/proposals/milestone-reporting.md
+          - Links & Resources: governance/proposals/links-and-resources.md
       - Constitution: governance/constitution.md
   - Building On Voi:
       - Start Here: developers/start-here.md
@@ -149,7 +158,7 @@ nav:
           - Become A Relay Runner: node-runners/become-a-relay-runner.md
   - Join The Revolution:
       - Become A Rebel: join-the-revolution/become-a-rebel.md
-      - Popular: 
+      - Popular:
           - Voiagers: join-the-revolution/voiagers.md
           - Node Runners: join-the-revolution/node-runners.md
           - Developers: join-the-revolution/developers.md
