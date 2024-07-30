@@ -123,7 +123,7 @@ nav:
       - Governance:
           - Overview: governance/governance.md
           - Council: governance/governance/council.md
-          - Treasure: governance/governance/treasure.md
+          - Treasury: governance/governance/treasury.md
           - Judiciary: governance/governance/judiciary.md
           - Checks and Balances: governance/governance/checks-and-balances.md
       - Committees:
