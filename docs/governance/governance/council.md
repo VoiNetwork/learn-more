@@ -17,7 +17,7 @@ The size and composition of these groups will evolve based on the ecosystem's ch
 
 **To learn more about the structure and function of Voi’s Council refer [here](https://docs.google.com/document/d/1FlJBiK3Jm4nOYIxOWDw0U5BJGGk-mKUzIDmu388FjvM/edit#heading=h.1m51zng1myjy).**
 
- ## **Powers and Functions of the Voi Council**
+## **Powers and Functions of the Voi Council**
 
 The Voi Council, at  a high-level, serves as the branch in Voi’s tri-partite system that provides legislative oversight, financial management, and significant checks on the executive power of Voi’s Treasury (more coming soon about Voi’s Treasury in subsequent announcements!). Here is a brief overview of the Council’s primary functions: 
 
