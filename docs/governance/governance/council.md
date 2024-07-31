@@ -1,4 +1,4 @@
-# The Voi Council
+# Voi Council
 
 We are excited to introduce the Voi Council, the legislative branch of Voi's government, and the heart of Voi’s democracy. This Council plays a pivotal role in shaping our ecosystem by creating, amending, and overseeing the implementation of governance rules, policies, and legislative acts that ensure Voi’s growth while upholding its constitutional foundation and core values. Here we present a first draft of what we envision to be the final version of the Voi Council. It will take us multiple  iterations to get here, but we look forward to receiving the community’s feedback on whether or not you believe we are headed in the right direction. All relevant documents pertinent to understanding the structure, function, and responsibilities of the Voi Council can be found for review and feedback at the end of this announcement. 
 
