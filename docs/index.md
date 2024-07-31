@@ -23,4 +23,4 @@ To ensure true decentralization, the Voi community adheres to these guiding valu
 > - **Intentionality:** Ensure thoughtful, purpose-driven actions and communications align with Voi’s broader mission.
 
 ## Join the Revolution
-Read our [executive summary](executive-summary.md) or dive into our [white paper](https://docs.google.com/document/d/1UdVmLYs-BVxCBE-zC7LUIpmsbKZHGrCYu58gdIrZ-Ls/edit?usp=sharing) to explore our vision and strategic plans in detail, and follow our [Twitter](https://x.com/Voi_Net) or join our [Discord](https://discord.gg/voi-network) to stay up to date.
+Read our [executive summary](executive-summary.md) or dive into our [white paper](https://docs.google.com/document/d/1UdVmLYs-BVxCBE-zC7LUIpmsbKZHGrCYu58gdIrZ-Ls/edit?usp=sharing) to explore our vision and strategic plans in detail, and follow our [Twitter](https://x.com/Voi_Net) or join our [Discord](https://discord.gg/voi-network) to stay up to date and get involved.
