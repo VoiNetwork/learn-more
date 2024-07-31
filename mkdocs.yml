@@ -96,6 +96,7 @@ extra_css:
 
 nav:
   - Voi: index.md
+  - Executive Summary: executive-summary.md
   - Voi Chain:
       - Using Voi:
           - Create A Wallet: using-voi/create-a-wallet.md
