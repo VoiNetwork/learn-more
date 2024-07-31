@@ -15,7 +15,7 @@ The size and composition of these groups will evolve based on the ecosystem's ch
 
 The size and composition of these groups will evolve based on the ecosystem's changing needs and circumstances. It is very much feasible that additional categories of seats will be added or changed over time.
 
-**To learn more about the structure and function of Voi’s Council refer here:** https://docs.google.com/document/d/1FlJBiK3Jm4nOYIxOWDw0U5BJGGk-mKUzIDmu388FjvM/edit#heading=h.1m51zng1myjy
+**To learn more about the structure and function of Voi’s Council refer [here](https://docs.google.com/document/d/1FlJBiK3Jm4nOYIxOWDw0U5BJGGk-mKUzIDmu388FjvM/edit#heading=h.1m51zng1myjy).**
 
  ## **Powers and Functions of the Voi Council**
 
@@ -25,7 +25,8 @@ The Voi Council, at  a high-level, serves as the branch in Voi’s tri-partite s
 * **Budgetary Control**: The Council advises the blockchain's budget, passes budgetary proposals from the Treasury (the branch of Voi’s governance holding executive power) oversees the blockchain’s financial decisions, and ensures fiscal responsibility. This includes reviewing proposals from the Voi community and allocating funds with the network’s strategic goals.
 * **Checks and Balances**: The Council exercises checks on the Voi Treasury, through mechanisms like approval/denial of strategic initiatives and the ability to impeach members of the Treasury for misconduct.The Council can amend the constitution, override vetoes from the Treasury with a sufficient majority, and has the power to impeach and remove members of the Treasury under specific circumstances. This ensures the ecosystem's rules and constitution evolve with the community's needs.
 
-**To learn more about the Council’s responsibilities refer here:** https://docs.google.com/document/d/1OHK56O4E2bNdGM6iXi2-mhojjeU8SMDAs-W4FHeQnSc/edit#heading=h.e8vortt82qqw
+**To learn more about the Council’s responsibilities refer [here](https://docs.google.com/document/d/1OHK56O4E2bNdGM6iXi2-mhojjeU8SMDAs-W4FHeQnSc/edit#heading=h.e8vortt82qqw).**
+
 
 ## **Terms of Office**
 
@@ -39,7 +40,7 @@ In the event of a vacancy during the first year post launch of the Council, comm
 
 Elections will take place annually to fill any seats that have completed their terms. Candidates will specify which seats they are running for, with clear eligibility criteria to ensure they possess the necessary experience, commitment, aptitude, and reputational standing to effectively participate in Voi’s governance. Every year elections will commence with the official Voi Debates. Candidates are encouraged to participate in community Q&A sessions and debates to discuss their vision, qualifications, and respond to any concerns voiced by community members. Elections and voting will be held on the Voi portal, with a 2-week voting period allowing voters to change their ballot until the deadline.
 
-**To learn more about Voi’s election process refer here:** https://docs.google.com/document/d/1z-KBosZaxm81w8lzSS7YtnG05rpCsWY1XFrVmy6_pbc/edit#heading=h.u8mlsgrqgvu7
+**To learn more about Voi’s election process refer [here](https://docs.google.com/document/d/1z-KBosZaxm81w8lzSS7YtnG05rpCsWY1XFrVmy6_pbc/edit#heading=h.u8mlsgrqgvu7).**
 
 ## **Candidate Eligibility Criteria**
 
@@ -65,7 +66,7 @@ Once successful candidates are elected and onboarded onto the Council, the secon
 
 Voi’s governance framework in the future has a goal of being dynamic - community members will be able to reallocate their staked Voi as needed whenever they would like, ensuring a dynamic and responsive governance structure. Additionally, after each legislative vote, there is a 48-hour grace period during which community members can reassign their delegated power to better align with their preferences. This ensures the political power of each council member is continually recalibrated to reflect the community's evolving priorities.
 
-**To learn more about how Voi’s community can delegate power to elected Council members read here:** https://docs.google.com/document/d/1szLfKjLJ_JwRJmbI-CvHfzW29AValzsSiOl-agh32jE/edit#heading=h.2ncaakeq66kp
+**To learn more about how Voi’s community can delegate power to elected Council members read [here](https://docs.google.com/document/d/1szLfKjLJ_JwRJmbI-CvHfzW29AValzsSiOl-agh32jE/edit#heading=h.2ncaakeq66kp).**
 
 _This legislative framework enables the Voi Council to act as a dynamic, responsive body that not only governs the creation of laws and policies but also ensures they align with the evolving needs and aspirations of the Voi community. This structure supports a balanced, democratic approach to blockchain governance, where community input and legislative oversight drive the ecosystem’s growth and innovation._
 
