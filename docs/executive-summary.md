@@ -16,7 +16,7 @@ Voi doesn't build new technology from the ground up. Instead, we leverage the in
 ## Traction
 Since June 2024, Voi has demonstrated significant growth and engagement, reflecting its strong ecosystem and community support:
 
-* **Community Growth:** Twitter followers surged from 3,000 in May 2024 to 30,000+. Discord members increased from 2,750 to 23,000+ in the same period, with Telegram users growing from 300 to 8,000+.
+* **Community Growth:** Twitter followers surged from 3,000 to 30,000+. Discord members increased from 2,750 to 23,000+ in the same period, with Telegram users growing from 300 to 8,000+.
 * **Active Participation:** The number of online voting nodes grew from 850 to 4,000+.
 * **Real People:** Kibisis wallet installations saw a significant rise, from 900 to 16,500+. This reflects a robust user base of people, not bots. Some multibillion L1s have around 30K installs.
 * **NFT Games During Testnet:** Over 30 NFT projects completed, highlighting active developer and collection engagement and innovation.
