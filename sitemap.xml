@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://docs.voi.network/executive-summary/</loc>
+         <lastmod>2024-07-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.voi.network/airdrops/incentivized-testnet-phase-1/</loc>
          <lastmod>2024-07-31</lastmod>
          <changefreq>daily</changefreq>
