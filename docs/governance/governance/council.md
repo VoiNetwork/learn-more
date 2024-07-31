@@ -72,17 +72,18 @@ _This legislative framework enables the Voi Council to act as a dynamic, respons
 
 We look forward to your active participation in shaping the future of Voi through the Voi Council. 
 
-All important Council documents have been linked below: 
+**All important Council documents have been linked below:** 
 
-**Structural Overview of Voi Council:** https://docs.google.com/document/d/1FlJBiK3Jm4nOYIxOWDw0U5BJGGk-mKUzIDmu388FjvM/edit#heading=h.1m51zng1myjy
+**[Structural Overview of Voi Council](https://docs.google.com/document/d/1FlJBiK3Jm4nOYIxOWDw0U5BJGGk-mKUzIDmu388FjvM/edit#heading=h.1m51zng1myjy)**
 
-**Voting & Running for Election:** https://docs.google.com/document/d/1z-KBosZaxm81w8lzSS7YtnG05rpCsWY1XFrVmy6_pbc/edit#heading=h.u8mlsgrqgvu7
+**[Voting & Running for Election](https://docs.google.com/document/d/1z-KBosZaxm81w8lzSS7YtnG05rpCsWY1XFrVmy6_pbc/edit#heading=h.u8mlsgrqgvu7)**
 
-**Delegating Political Power Across the Elected Council:** https://docs.google.com/document/d/1szLfKjLJ_JwRJmbI-CvHfzW29AValzsSiOl-agh32jE/edit#heading=h.2ncaakeq66kp
+**[Delegating Political Power Across the Elected Council](https://docs.google.com/document/d/1szLfKjLJ_JwRJmbI-CvHfzW29AValzsSiOl-agh32jE/edit#heading=h.2ncaakeq66kp)**
 
-**General Responsibilities of the Council:** https://docs.google.com/document/d/1OHK56O4E2bNdGM6iXi2-mhojjeU8SMDAs-W4FHeQnSc/edit#heading=h.e8vortt82qqw
+**[General Responsibilities of the Council](https://docs.google.com/document/d/1OHK56O4E2bNdGM6iXi2-mhojjeU8SMDAs-W4FHeQnSc/edit#heading=h.e8vortt82qqw)**
 
-**Job Description for Council Members:** https://docs.google.com/document/d/1OHK56O4E2bNdGM6iXi2-mhojjeU8SMDAs-W4FHeQnSc/edit#heading=h.e8vortt82qqw
+**[Job Description for Council Members](https://docs.google.com/document/d/1OHK56O4E2bNdGM6iXi2-mhojjeU8SMDAs-W4FHeQnSc/edit#heading=h.e8vortt82qqw)**
+
 
 
 
