@@ -1,4 +1,4 @@
-# The Voi Treasury
+# Voi Treasury
 
 The Voi Treasury plays a critical role in managing and allocating the financial resources within the Voi ecosystem, ensuring that funds are used effectively, transparently, and in alignment with Voi's long-term vision. The Voi Treasury is designed to handle the financial assets of the Voi ecosystem, ensuring their proper allocation and management to support various projects and initiatives. The Treasury works in close coordination with the Voi Council and the Judiciary to align financial decisions with the overall strategic goals of Voi.
 
