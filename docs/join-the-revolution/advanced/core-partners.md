@@ -1,16 +1,23 @@
 # Core Partner Getting Started Guide
 
-Welcome, Core Partner! 
+Welcome, Core Partner!
 
-We’re thrilled to have you join our vibrant and dynamic community. As a Core Partner, you play a crucial role in tackling significant challenges and driving the strategic initiatives within the Voi ecosystem.
+We’re thrilled to have you join our vibrant and dynamic community. As a Core Partner, you play a crucial role in tackling significant challenges and driving strategic initiatives within the Voi ecosystem.
 
 At Voi, our mission is to make blockchain technology accessible and beneficial for all. We emphasize decentralization, democratic governance, and true ownership. Our vision is to empower the community through a token distribution model that reserves 75% of the ecosystem tokens for those who contribute to the network, ensuring that the community drives the network.
 
-Core Partners are the strategic leaders and problem-solvers of our community. Your expertise and dedication help address key challenges, develop strategic initiatives, and ensure the long-term success and sustainability of the Voi ecosystem.
-
-Typically Core partners may wish to create DAOs that collectively tackle problems faced by the ecosystem such as marketing, network health or other big picture issues.
-
 [Become A Core Partner](mailto:projectinquiry@voi.network)
+
+# What Are Core Partners?
+Core Partners are either individuals or entities, such as DAOs, within the Voi ecosystem that can fulfill responsibilities typically associated with centralized foundations. These responsibilities can be fulfilled in exchange for tokens approved by the community through the grant proposal process.
+
+This model significantly reduces the community's burden of supporting a large payroll from a foundation and makes Core Partners more competitive and efficient. Core Partners strive to fulfill their responsibilities in the most efficient way possible, ensuring high standards and accountability.
+
+Furthermore, Core Partners, especially DAOs, can engage in innovative practices such as creating their own tokens and integrating them into their operations. For example, a DAO can share any grants it receives with its token holders, ensuring that those who add value and fulfill responsibilities are rewarded. This promotes a decentralized and incentivized model of contribution.
+
+Typically, Core Partners may wish to create DAOs that collectively tackle problems faced by the ecosystem, such as marketing, education, network health, or other big-picture issues that need executing on. 
+
+By leveraging Core Partners, especially those whichare DAOs, we can ensure decentralized decision-making and innovative solutions that are truly community-driven.
 
 # Being a Core Partner
 
