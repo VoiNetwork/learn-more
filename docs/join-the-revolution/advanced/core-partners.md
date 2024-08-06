@@ -17,7 +17,7 @@ Furthermore, Core Partners, especially DAOs, can engage in innovative practices 
 
 Typically, Core Partners may wish to create DAOs that collectively tackle problems faced by the ecosystem, such as marketing, education, network health, or other big-picture issues that need executing on. 
 
-By leveraging Core Partners, especially those whichare DAOs, we can ensure decentralized decision-making and innovative solutions that are truly community-driven.
+By leveraging Core Partners, especially those which are DAOs, we can ensure decentralized decision-making and innovative solutions that are truly community-driven.
 
 # Being a Core Partner
 
