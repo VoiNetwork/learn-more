@@ -20,7 +20,7 @@ Voi provides grant funding for anyone eager to build applications within the Voi
 
 Voi has two major funding categories for grants: **Development Grants** and **Ecosystem Services Grants**. **Development Projects** focus on advancing the technical and infrastructural aspects of the Voi ecosystem, supporting projects that drive innovation on the network, create new Voi applications, and/or enhance existing platforms. **Ecosystem Services Projects** are designed to foster the growth and sustainability of the broader Voi community, providing funding for initiatives that contribute to the ecosystem in the form of educational content, marketing support, community engagement, developer resources, and support services.
 
-**In the next section we will delve into the different types of grants available in each of these categories**
+**In the next section we will delve into the different types of grants available in each of these funding streams.**
 
 
 
