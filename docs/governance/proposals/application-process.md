@@ -13,6 +13,6 @@ In the future Voi will be releasing a RFP to build a comprehensive Grants Portal
     - [Product Design Pitch Deck](https://docs.google.com/presentation/d/1JwjrArUgIc2cF8l4LdBjunJ07V2_d21etOFpNI7wUno/edit#slide=id.p)
     - [Build Grant Pitch Deck](https://docs.google.com/presentation/d/1wNA5HeAgpwwFEEXvdnd4Jc6LEiYw4k83HByFZH799jI/edit#slide=id.p)
     - [Retroactive Pitch Deck ](https://docs.google.com/presentation/d/1hpxkDJX6xYj9Q8_5BEUtkpksERTCsJAnOQknEiISURQ/edit#slide=id.g2e773e3439e_0_16)
-    - Ecosystem Services Grants do not require a pitch deck
+    - [Ecosystem Services Pitch Deck](https://docs.google.com/presentation/d/1kDAVnKIJT5hYh_69jxW8XuXjQ2J7Pj91NlOxaNy7Zvo/edit?usp=sharing) (for projects seeking funding above $10,000 worth of Voi)
 5.  Any supporting documents if unable to be submitted via the application should be sent via email to the Council at [voi.grants@voi.network](mailto:voi.grants@voi.network) with identifying information in the email subject line to be able to associate it with the appropriate application (Name of project_Type of Grant_YYYMMDD). 
 6. Prior to submission, we highly encourage you to review the **Grants Evaluation** section of the documentation so that you understand how your application will be evaluated. 
