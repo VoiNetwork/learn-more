@@ -11,6 +11,8 @@ In the future Voi will be releasing a RFP to build a comprehensive Grants Portal
     - [Build Grant](https://forms.gle/oUnaDZgmRrh8zNeu9)
     - [Retroactive Grant](https://docs.google.com/forms/d/e/1FAIpQLSecyd0j1JuWhHgPWicyi5iRXJmqi4dw_Dqj0H-ex0QOSh0iYQ/viewform?usp=sf_link)
     - [Ecosystem Services Grant](https://docs.google.com/forms/d/1khhwLFKF_TxYOsNasXfOGI8AzRl_Ny1KpJh3794kFa4/edit)
+    - [Microgrants](https://docs.google.com/forms/d/1A1M_FiuUrKPtHAYmbo0jmy5HTu1xFVXH7_aRSMbtXRU/edit)
+
 4. **Prepare the pitch deck and recorded pitch presentation** required for your appropriate grant as part of the application process and submit it with the above google form as a publicly viewable link. Microgrants do not require a pitch deck nor do Ecosystem Services Grants worth less than <$10,000 in Voi in requested funding.
     - [Product Design Pitch Deck](https://docs.google.com/presentation/d/1JwjrArUgIc2cF8l4LdBjunJ07V2_d21etOFpNI7wUno/edit#slide=id.p)
     - [Build Grant Pitch Deck](https://docs.google.com/presentation/d/1wNA5HeAgpwwFEEXvdnd4Jc6LEiYw4k83HByFZH799jI/edit#slide=id.p)
@@ -40,15 +42,17 @@ In the future Voi will be releasing a RFP to build a comprehensive Grants Portal
 
 Different types of Voi grants are evaluated differently. The evaluation forms used by the Voi Council can be found below. Please review them prior to submitting your proposal so that you understand how your proposal will be judged. 
 
-Product Design Grant Evaluation 
+[Product Design Grant Evaluation](https://docs.google.com/forms/d/e/1FAIpQLSd6brWeeLl8WnJMCDVxcKb_QhzFVmAlYLrjuWnaUw3wOppr8g/viewform?usp=sf_link)
 
-Build Phase Grant Evaluation 
+[Build Phase Grant Evaluation](https://forms.gle/vxLNhwyWjmtSH3ff6)
 
-Ecosystem Services Grant Evaluation 
+[Ecosystem Services Grant Evaluation](https://docs.google.com/forms/d/e/1FAIpQLSf_jdul5uOi_ijDYAHx6zGp6CMcTwE9PwKzgASMgFTyVel2qg/viewform?usp=sf_link)
 
-Retroactive Grant Evaluation 
+[Retroactive Grant Evaluation (Development Projects)](https://docs.google.com/forms/d/e/1FAIpQLSfSsnnu3D9jafkR8Ukt5NeXPAgMxpCweNvTQyguhUBOrWInsg/viewform?usp=sf_link)
 
-Microgrant Evaluation 
+[Retroactive Grant Evaluation (Ecosystem Services Projects)](https://docs.google.com/forms/d/e/1FAIpQLSeCX2jrvkAXiUvvElpTOUgOH83yBrxwlEv0di2mZM_NxQ3nEQ/viewform?usp=sf_link)
+
+[Microgrant Evaluation](https://docs.google.com/forms/d/e/1FAIpQLSfdWJ5Po9xbK75BZRsi25tJfOfgmDPjq60vrcmuEuW-jYscQg/viewform?usp=sf_link)
 
 
 ## Grant Implementation 
