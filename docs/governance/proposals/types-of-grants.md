@@ -20,5 +20,42 @@ Ecosystem Services grants are grants for community members and core partners, th
 
  * **Marketing Grants**: To support community members and builders to grow Voi's community, boost engagement, promote Voi's vision, and support product growth.
  * **Education Grants**: To support the creation of educational content, curriculum, documentation, and other materials to enhance understanding of Voi and its ecosystem.
+
+The below chart provides rough guidelines in terms of what one can expect as a reasonable ask in terms of funding across grants. Please note that a significant component of the evaluation of a grant application is the reasonableness of the funding request when mapped against what is being built. 
+
+
+<table>
+  <tr>
+   <td><strong>Type of Grant</strong>
+   </td>
+   <td><strong>Approximate Amount of Funding in USD</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Microgrants
+   </td>
+   <td>&lt;$10,000
+   </td>
+  </tr>
+  <tr>
+   <td>Product Design Grants
+   </td>
+   <td>$10,000 - $30,000
+   </td>
+  </tr>
+  <tr>
+   <td>Build Grants
+   </td>
+   <td>$30,0000 - $100,000
+   </td>
+  </tr>
+  <tr>
+   <td>Ecosystem Services Grants
+   </td>
+   <td>$5,000 - $100,000
+   </td>
+  </tr>
+</table>
+
   
      
