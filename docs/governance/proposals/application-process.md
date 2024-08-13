@@ -25,14 +25,14 @@ In the future Voi will be releasing a RFP to build a comprehensive Grants Portal
 **Once an application has been submitted, the following process ensues for proposal review**: 
 
 1. Any incomplete applications are automatically rejected by the Council. 
-2. All applications are made publically available on Discord for a 5-day community review. 
+2. All applications are made publically available on Discord for a **5-day community review**. 
 3. During this 5-day period, community members can provide feedback, comments and also vote on the proposal with a thumbs up or thumbs down signalling their overall sentiment towards the proposal. 
-4. Applicants then have 2-days to incorporate any feedback they find useful from the community. 
-5. The Council then has 48-hours to independently review the proposal and submit an evaluation with feedback to the grantees. The Council may choose to set up an independent meeting with certain grantees to gather additional information. This will be more relevant for build grants, and projects larger in scope and/or monetary value. 
-6. Applicants then have 48-hours to incorporate any of the Council’s suggestions into their proposal.
-7. Community members have 24-hours to change their up or down vote based on changes made to the proposal
-8. To end the process, the Council then engages in a final vote on the proposal, taking into account the edits the team made to the proposal based on the community's review and the Council's evaluation. This vote is done within 48-hours of receiving the final version of the proposal. 
-9. The Treasury then has 48-hours to approve the grant, per Voi’s checks and balances system, to allow the future release of funds.
+4. Applicants then have **48-hours** to incorporate any feedback they find useful from the community. 
+5. The Council then has **48-hours** to independently review the proposal and submit an evaluation with feedback to the grantees. The Council may choose to set up an independent meeting with certain grantees to gather additional information. This will be more relevant for build grants, and projects larger in scope and/or monetary value. 
+6. Applicants then have **48-hours** to incorporate any of the Council’s suggestions into their proposal.
+7. Community members have 2**4-hours** to change their up or down vote based on changes made to the proposal
+8. To end the process, the Council then engages in a final vote on the proposal, taking into account the edits the team made to the proposal based on the community's review and the Council's evaluation. This vote is done within **48-hours** of receiving the final version of the proposal. 
+9. The Treasury then has **48-hours** to approve the grant, per Voi’s checks and balances system, to allow the future release of funds.
 10. Applicants are responsible for ensuring that they are diligent with sticking to milestones and submitting milestones on time to the Council using the tracker in the link provided [here](https://docs.google.com/document/d/17QS_FfhjEttHnXu2d3DWKk4qoD6irAv0F3sVF17Y6wQ/edit#heading=h.alfnp343pc9r). For grants that do not require milestone tracking (microgrants, ecosystem service grants&lt;$10,000), 50% will be paid upon signing the grant acceptance form, and 50% upon completion of the grants. 
 
 
