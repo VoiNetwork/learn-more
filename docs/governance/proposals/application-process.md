@@ -30,7 +30,7 @@ In the future Voi will be releasing a RFP to build a comprehensive Grants Portal
 4. Applicants then have **48-hours** to incorporate any feedback they find useful from the community. 
 5. The Council then has **48-hours** to independently review the proposal and submit an evaluation with feedback to the grantees. The Council may choose to set up an independent meeting with certain grantees to gather additional information. This will be more relevant for build grants, and projects larger in scope and/or monetary value. 
 6. Applicants then have **48-hours** to incorporate any of the Council’s suggestions into their proposal.
-7. Community members have 2**4-hours** to change their up or down vote based on changes made to the proposal
+7. Community members have **24-hours** to change their up or down vote based on changes made to the proposal
 8. To end the process, the Council then engages in a final vote on the proposal, taking into account the edits the team made to the proposal based on the community's review and the Council's evaluation. This vote is done within **48-hours** of receiving the final version of the proposal. 
 9. The Treasury then has **48-hours** to approve the grant, per Voi’s checks and balances system, to allow the future release of funds.
 10. Applicants are responsible for ensuring that they are diligent with sticking to milestones and submitting milestones on time to the Council using the tracker in the link provided [here](https://docs.google.com/document/d/17QS_FfhjEttHnXu2d3DWKk4qoD6irAv0F3sVF17Y6wQ/edit#heading=h.alfnp343pc9r). For grants that do not require milestone tracking (microgrants, ecosystem service grants&lt;$10,000), 50% will be paid upon signing the grant acceptance form, and 50% upon completion of the grants. 
@@ -38,7 +38,7 @@ In the future Voi will be releasing a RFP to build a comprehensive Grants Portal
 
 ## Grantee Selection & Evaluation Factors 
 
-Different types of Voi grants are evaluated differently. The evaluation forms used by the Voi Council can be found below. 
+Different types of Voi grants are evaluated differently. The evaluation forms used by the Voi Council can be found below. Please review them prior to submitting your proposal so that you understand how your proposal will be judged. 
 
 Product Design Grant Evaluation 
 
@@ -46,14 +46,17 @@ Build Phase Grant Evaluation
 
 Ecosystem Services Grant Evaluation 
 
+Retroactive Grant Evaluation 
+
+Microgrant Evaluation 
+
 
 ## Grant Implementation 
 
-If you’ve received a grant you can start implementing based on the timeline and milestones provided in your grant application. 
-
-
+If you’ve received a grant you can start implementing based on the timeline and milestones agreed upon in your grant application. 
 
 1. Sign the **grant acceptance letter,** which confirms receipt of your application and agreement to the milestones within and payouts. This will be distributed to grant winners. 
-2. Begin developing your product blueprint, building your application or engaging in any other scope of work for which you received funding. 
-3. Everytime a milestone has been completed be sure to submit documentation of completion to the voi council at **[voigrants@voi.network](mailto:voigrants@voi.network). **This includes a description of the completed milestone, any relevant links, and a reference to the milestone number in the originally submitted milestone tracker. The milestone submission form is the same as the milestone tracking form and can be found **[here](https://docs.google.com/document/d/17QS_FfhjEttHnXu2d3DWKk4qoD6irAv0F3sVF17Y6wQ/edit#heading=h.alfnp343pc9r)**. 
-4. For those completing a product design grant, submission of the product blueprint is required to receive a final payout. For those building an application to launch on Voi, development teams must schedule time with the Voi Council to demo their final product. This presentation will be open to the community. 
+2. Begin developing your product blueprint, building your application or engaging in any other scope of work for which you received funding.
+3. Reach out to the Voi Council any time you need support. The Council can support with facilitating connections within and outside the Voi ecosystem to support you in being successful. 
+4. Everytime a milestone has been completed be sure to submit documentation of completion to the Voi Council at **[voigrants@voi.network](mailto:voigrants@voi.network). **This includes a description of the completed milestone, any relevant links, and a reference to the milestone number in the originally submitted milestone tracker. The milestone submission form is the same as the milestone tracking form and can be found **[here](https://docs.google.com/document/d/17QS_FfhjEttHnXu2d3DWKk4qoD6irAv0F3sVF17Y6wQ/edit#heading=h.alfnp343pc9r)**. Grantees must take a proactive role in ensuring they receive payments owed to them.
+5. For those completing a product design grant, submission of the product blueprint is required to receive a final payout. For those building an application to launch on Voi, development teams must schedule time with the Voi Council to demo their final product. This presentation will be open to the community! 
