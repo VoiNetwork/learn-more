@@ -6,7 +6,7 @@ There are two main categories of grants availabe to the Voi community: **Develop
 
 Development grants go towards individual developers and development teams seeking to build an application or product on Voi. They are available to projects at various stages in the development process. For more information refer to this comprehensive [guide](https://docs.google.com/document/d/1rgZcpBtZY0rwq3W6-omnRjIGg54T8G3w1xjA_2usg84/edit).
 
-There are three types of development grants: 1) Product Design Grants, 2) Build Grants, 3) Retroactive Grants, and 4) Micro Grants
+There are three types of development grants: **1) Product Design Grants**, **2) Build Grant**s, **3) Retroactive Grants**, and **4) Micro Grants**.
 
  * **Product Design Grants**:Intended to validate ideas and concepts, helping developers prepare a detailed Product Blueprint for a successful build and launch on Voi.
  * **Build Grants**: Focused on the actual development and milestone-based funding of projects that have a completed Product Blueprint.
