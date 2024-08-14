@@ -40,4 +40,4 @@ Milestone tracking form and can be found **[here](https://docs.google.com/docume
 
 ## Contact Information
 
-For any questions related to grants and the proposal submission process please reach out to voi.grants@voi.network
+For any questions related to grants and the proposal submission process please reach out to grants@voi.network
