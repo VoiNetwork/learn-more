@@ -119,6 +119,9 @@ nav:
       - Community: ecosystem/community.md
       - Projects: ecosystem/projects.md
       - Tokenomics: ecosystem/tokenomics.md
+      - Bounty Boards:
+          - Products: ecosystem/bounty-boards/products.md
+          - Services: ecosystem/bounty-boards/services.md
       #- Roadmap: ecosystem/roadmap.md
   - Voi Governance:
       - Governance:
@@ -150,6 +153,7 @@ nav:
       - Smart Contracts: developers/smart-contracts.md
       - Tools: developers/tools.md
       - Networks: developers/networks.md
+      - Bounties: developers/bounties.md
   - Nodes On Voi:
       - Nodes Overview: node-runners/overview.md
       - Participation:
