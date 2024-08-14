@@ -4,7 +4,7 @@ The Voi Council will be accepting grant proposals on a monthly basis with the la
 - Grantees can submit applications **anytime within first 2 weeks of each month**.
 - **5-day community review period** for the Voi community to provide feedback and comments.
 - **48-hour period** for the **Grantee** to consider suggestions and edit application as needed.
-- **72-hour period** for the **Council **to review this updated application and completes an evaluation with thorough feedback.
+- **72-hour period** for the **Council** to review this updated application and completes an evaluation with thorough feedback.
 - **48-hour period** for the **Grantee** to make final edits using the Council's evaluation.
 - **72-hour period** for the **Council** to engage in a final vote.
 - **48-hour period** for the **Treasury** to approve proposal, which unlocks funds disbursement.
