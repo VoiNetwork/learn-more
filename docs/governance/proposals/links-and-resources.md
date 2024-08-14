@@ -15,7 +15,7 @@ Here you can find a consolidated list of important links and resources for Voi's
 -  [Ecosystem Services Grant](https://docs.google.com/forms/d/1khhwLFKF_TxYOsNasXfOGI8AzRl_Ny1KpJh3794kFa4/edit)
 -  [Microgrants](https://docs.google.com/forms/d/1A1M_FiuUrKPtHAYmbo0jmy5HTu1xFVXH7_aRSMbtXRU/edit)
   
-### Pitch Decks (to be submitted as part of application)
+### Pitch Decks (to be submitted as part of the application)
 - [Product Design Pitch Deck](https://docs.google.com/presentation/d/1JwjrArUgIc2cF8l4LdBjunJ07V2_d21etOFpNI7wUno/edit#slide=id.p)
 - [Build Grant Pitch Deck](https://docs.google.com/presentation/d/1wNA5HeAgpwwFEEXvdnd4Jc6LEiYw4k83HByFZH799jI/edit#slide=id.p)
 - [Retroactive Pitch Deck ](https://docs.google.com/presentation/d/1hpxkDJX6xYj9Q8_5BEUtkpksERTCsJAnOQknEiISURQ/edit#slide=id.g2e773e3439e_0_16)
