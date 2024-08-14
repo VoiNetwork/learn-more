@@ -133,8 +133,8 @@ nav:
       - Committees:
           - Overview: governance/committees/overview.md
           - Network: governance/committees/network.md
-          - Builders: governance/committees/builders.md
-          - Culture: governance/committees/nfts.md
+          - Builder: governance/committees/builders.md
+          - Voiager: governance/committees/nfts.md
           - DeFi: governance/committees/defi.md
       - Submitting Proposals:
           - Overview: governance/submitting-proposals.md
