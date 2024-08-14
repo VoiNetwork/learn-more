@@ -1,8 +1,8 @@
-# Culture Committee
+# Voiager Committee
 
 ## Purpose
 
-The Culture Committee represents the diverse cultural aspects and creative expressions within our ecosystem. This committee promotes the growth and diversity of cultural activities, ensuring that artists, creators, and enthusiasts have a platform for collaboration, support, and a voice in the ecosystem.
+The Voiager Committee represents the diverse cultural aspects and creative expressions within our ecosystem. This committee promotes the growth and diversity of cultural activities, ensuring that artists, creators, and enthusiasts have a platform for collaboration, support, and a voice in the ecosystem.
 
 [Join Now](https://forms.gle/vDt1sgkrm671Uc9q6)
 
@@ -57,4 +57,4 @@ You can access resources related to the committee [here](https://drive.google.co
 
 - [Registration Form](https://forms.gle/vDt1sgkrm671Uc9q6)
 - [Resources](https://drive.google.com/drive/folders/1eFE60Oy9WwurGwRj5WAvdKazzsF86evh?usp=sharing)
-- [Email](mailto:culture-committee@voi.network)
+- [Email](mailto:voiager-committee@voi.network)
