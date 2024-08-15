@@ -17,10 +17,10 @@ Rather than assigning fixed rewards, developers and builders are encouraged to s
 |              | **Perpetuals and Futures Protocols** | Decentralized protocols for trading perpetual contracts and futures, allowing users to hedge or speculate on asset prices without expiration. | - Perpetual swaps and futures trading.<br>- Leverage options.<br>- Decentralized order book or AMM-based trading.<br>- Risk management and liquidation mechanisms. |
 
 ## How to Apply
-Interested in developing one of these products? [Submit your proposal](../../governance/proposals/submitting-proposals.md) via the [Development Grants](../../governance/proposals/types-of-grants.md) process. Your proposal should include your experience, a development plan, key milestones, and any relevant past projects.
+Interested in developing one of these products? [Submit your proposal](../../governance/submitting-proposals.md) via the [Development Grants](../../governance/proposals/types-of-grants.md) process. Your proposal should include your experience, a development plan, key milestones, and any relevant past projects.
 
 ## Review Process
-All submissions will be reviewed by the Voi Council through the [following process](../../governance/proposals/grants-evaluation.md). 
+All submissions will be reviewed by the Voi Council through the [following process](../../governance/proposals/application-process.md). 
 
 Proposals will be evaluated based on feasibility, impact, and alignment with ecosystem goals. If your proposal is accepted, you'll be notified, and development can officially begin.
 
