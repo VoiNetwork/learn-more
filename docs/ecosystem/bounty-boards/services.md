@@ -33,6 +33,7 @@ By leveraging the collective strength of Core Partners, Voi fosters a truly dece
 |              | **Raiders** | Engages in proactive efforts to combat FUD and increase Voi's visibility across various social media platforms. | - Combatting FUD (Fear, Uncertainty, and Doubt) on social media with facts, truth and respect.<br>- Coordinating raids to increase Voi’s visibility in other ecosystems.<br>- Recruiting and managing a team of Voi supporters for these efforts. |
 | **Moderation** | **Discord & Telegram Moderators** | Ensures that Voi’s online communities remain safe, secure, and welcoming for all members. | - Ensuring Voi’s Discord and Telegram communities are safe, secure, and welcoming.<br>- Enforcing community guidelines and addressing any issues promptly. |
 | **Education** | **External Course Instructors** | Develops and delivers educational content to promote Voi to a broader audience, targeting various user groups. | - Developing and delivering educational courses about Voi to external audiences.<br>- Targeting different user groups, including developers, node runners, and power users. |
+| **Entertainment** |              |               |               |
 
 
 ## How to Apply
