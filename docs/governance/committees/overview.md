@@ -20,9 +20,9 @@ Purpose: Represent developers, entrepreneurs, and builders, fostering innovation
 [Overview](builders.md) |[ Register Here](https://forms.gle/wc7pFCUsSBm3yoEB6)
 
 
-## Culture & Community Committee
+## Voiager Committee
 
-Purpose: Represents the diverse cultural aspects, artistic and creative expressions within our ecosystem.
+Purpose: Represents the community and ensures we keep a finger on the pulse of trends within and beyond our ecosystem.
 
 [Overview](nfts.md) |[ Register Here](https://forms.gle/vDt1sgkrm671Uc9q6)
 
