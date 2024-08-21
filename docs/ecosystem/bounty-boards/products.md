@@ -5,6 +5,10 @@ Welcome to the Voi Products Bounty Board! This platform is designed for develope
 
 Rather than assigning fixed rewards, developers and builders are encouraged to submit proposals and bids for the development of these products through our grants process. The Voi community will review and select proposals based on merit, feasibility, and potential impact. This approach ensures that the best ideas are brought to life while fostering a competitive and transparent environment.
 
+The bounty board is not a definitive list of what is needed in the ecosystem. It is a list of some products identified by the community as desirable to have.
+
+**Proposals for building products don't need to be restricted to what is on the bounty board.**
+
 ## Products Needed in the Voi Ecosystem
 
 | **Category** | **Product** | **Description** | **Key Features** |

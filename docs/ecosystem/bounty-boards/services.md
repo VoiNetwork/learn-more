@@ -7,8 +7,12 @@ Rather than having fixed bounties, service providers are encouraged to submit tr
 
 By leveraging the collective strength of Core Partners, especially those structured as DAOs, Voi fosters a truly decentralized ecosystem where decision-making and execution are community-driven and efficient.
 
+The bounty board is not a definitive list of what is needed in the ecosystem. It is a list of some services identified by the community as desirable to have.
+
+**Proposals for providing services don't need to be restricted to what is on the bounty board.**
+
 ## What Are Core Partners?
-Core Partners are either individuals or entities, such as DAOs, within the Voi ecosystem that fulfill roles traditionally managed by centralized foundations. Instead of relying on a large foundation payroll, Voi empowers these partners to execute key tasks in exchange for tokens approved through community-led grant proposals.
+[Core Partners](../../join-the-revolution/advanced/core-partners.md) are either individuals or entities, such as DAOs, within the Voi ecosystem that fulfill roles traditionally managed by centralized foundations. Instead of relying on a large foundation payroll, Voi empowers these partners to execute key tasks in exchange for tokens approved through community-led grant proposals.
 
 This decentralized model encourages efficiency, innovation, and accountability. Core Partners aim to deliver high-quality services while minimizing costs, making the ecosystem more competitive. They are incentivized to explore creative solutions, including creating and distributing their own tokens, which can be integrated into their operations. For instance, a DAO acting as a Core Partner might distribute grant rewards among its token holders, rewarding those who add value to the ecosystem.
 
@@ -34,7 +38,6 @@ By leveraging the collective strength of Core Partners, Voi fosters a truly dece
 | **Moderation** | **Discord & Telegram Moderators** | Ensures that Voi’s online communities remain safe, secure, and welcoming for all members. | - Ensuring Voi’s Discord and Telegram communities are safe, secure, and welcoming.<br>- Enforcing community guidelines and addressing any issues promptly. |
 | **Education** | **External Course Instructors** | Develops and delivers educational content to promote Voi to a broader audience, targeting various user groups. | - Developing and delivering educational courses about Voi to external audiences.<br>- Targeting different user groups, including developers, node runners, and power users. |
 | **Entertainment** |              |               |               |
-
 
 ## How to Apply
 Interested in one of the bounties? [Submit your application](../../governance/submitting-proposals.md) via the [Ecosystem Services Grants](../../governance/proposals/types-of-grants.md) process. Be sure to include your experience, a proposed plan of action, and any relevant previous work.
