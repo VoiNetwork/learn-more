@@ -66,6 +66,6 @@ If you’ve received a grant you can start implementing based on the timeline an
 5. For those completing a product design grant, submission of the product blueprint is required to receive a final payout. For those building an application to launch on Voi, development teams must schedule time with the Voi Council to demo their final product. This presentation will be open to the community! 
 
 
+<img width="657" alt="image" src="https://github.com/user-attachments/assets/e893b95d-8f1e-4079-8cf8-9f5255a06fd0">
 
-<img width="625" alt="image" src="https://github.com/user-attachments/assets/1918b80d-20d8-423c-9ec0-2b0bd64c93fb">
 
