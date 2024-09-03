@@ -64,3 +64,8 @@ If you’ve received a grant you can start implementing based on the timeline an
 3. Reach out to the Voi Council any time you need support. The Council can support with facilitating connections within and outside the Voi ecosystem to support you in being successful. 
 4. Everytime a milestone has been completed be sure to submit documentation of completion to the Voi Council at grants@voi.network. This includes a description of the completed milestone, any relevant links, and a reference to the milestone number in the originally submitted milestone tracker. The milestone submission form is the same as the milestone tracking form and can be found **[here](https://docs.google.com/document/d/17QS_FfhjEttHnXu2d3DWKk4qoD6irAv0F3sVF17Y6wQ/edit#heading=h.alfnp343pc9r)**. Grantees must take a proactive role in ensuring they receive payments owed to them.
 5. For those completing a product design grant, submission of the product blueprint is required to receive a final payout. For those building an application to launch on Voi, development teams must schedule time with the Voi Council to demo their final product. This presentation will be open to the community! 
+
+
+
+<img width="625" alt="image" src="https://github.com/user-attachments/assets/1918b80d-20d8-423c-9ec0-2b0bd64c93fb">
+
