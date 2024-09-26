@@ -15,7 +15,7 @@ This unprecedented move ensures that the majority of network ownership and benef
 
 | Sector | Allocation (% - Quantity)| Lock Up (Months) | Vest (Months) |
 |--------|--------------------------|-------------------|---------------|
-| Early Incentives | 15% | 0 | 18            |
+| Early Incentives | 15% | 0 | 0            |
 | Block rewards | 10% | 0 | 240|
 | Ecosystem | 30% | 0 | 60 |
 | Future Growth | 20% | 60 | 120 |

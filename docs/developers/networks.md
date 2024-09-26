@@ -4,7 +4,9 @@ Voi blockchain will have two public networks, mainnet and testnet. Right now, th
 
 ### Mainnet
 
-Coming soon.
+Genesis ID: `voimain-v1.0`
+
+Genesis Hash: `r20fSQI8gWe/kFZziNonSPCXLwcQmH/nxROvnnueWOk=`
 
 ### Testnet
 
