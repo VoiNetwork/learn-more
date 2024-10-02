@@ -12,7 +12,7 @@ In order to make development easier there are a number of ecosystem specific too
     * [https://mainnet-api.voi.nodely.dev](https://mainnet-api.voi.nodely.dev)
     * [https://mainnet-idx.voi.nodely.dev](https://mainnet-idx.voi.nodely.dev)
 * Smart Assets NFT Indexer
-    * [https://arc72-idx.voirewards.com/api-docs/](https://arc72-idx.voirewards.com/api-docs)
+    * [https://arc72-voi-mainnet.nftnavigator.xyz/api-docs](https://arc72-voi-mainnet.nftnavigator.xyz/api-docs)
 * Smart Assets interaction library
     * [https://github.com/temptemp3/ulujs](https://github.com/temptemp3/ulujs)
 * Block Explorers
