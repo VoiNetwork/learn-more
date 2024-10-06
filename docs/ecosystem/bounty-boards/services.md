@@ -44,7 +44,7 @@ By leveraging the collective strength of Core Partners, Voi fosters a truly dece
 Interested in one of the bounties? [Submit your application](../../governance/submitting-proposals.md) via the [Ecosystem Services Grants](../../governance/proposals/types-of-grants.md) process. Be sure to include your experience, a proposed plan of action, and any relevant previous work.
 
 ## Review Process
-All submissions will be reviewed by the Voi Council via the [following process](../../governance/proposals/application-process.md.md). 
+All submissions will be reviewed by the Voi Council via the [following process](../../governance/proposals/application-process.md). 
 
 If your application is accepted, you will be notified, and the task will be officially assigned to you.
 
