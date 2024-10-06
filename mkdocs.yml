@@ -176,3 +176,6 @@ nav:
           - Governors: join-the-revolution/advanced/governors.md
           - Core Partners: join-the-revolution/advanced/core-partners.md
           - Relay Runners: join-the-revolution/advanced/relay-runners.md
+      - Guides:
+          - Acquiring & Bridging VOI: guides/acquiring-and-bridging.md
+          - Staking VOI: guides/staking.md
