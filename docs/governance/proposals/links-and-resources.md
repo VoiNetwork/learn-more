@@ -17,28 +17,16 @@ Here you can find a consolidated list of important links and resources for Voi's
 -  [New Policy & Procedure Proposal](https://forms.gle/euWU7jDHKAwxcqGy5)
 -  [Policy or Procedure Removal Proposal](https://forms.gle/7BG6jf2vBFbmh7Gn8)
 -  [Amendment proposal](https://forms.gle/AVEZiVejx4WipDQj6)
-
   
-### Pitch Decks (to be submitted as part of the application)
+### Pitch Decks & Presentations (to be submitted as part of the application)
 - [Product Design Pitch Deck](https://docs.google.com/presentation/d/1JwjrArUgIc2cF8l4LdBjunJ07V2_d21etOFpNI7wUno/edit#slide=id.p)
 - [Build Grant Pitch Deck](https://docs.google.com/presentation/d/1wNA5HeAgpwwFEEXvdnd4Jc6LEiYw4k83HByFZH799jI/edit#slide=id.p)
 - [Retroactive Pitch Deck ](https://docs.google.com/presentation/d/1hpxkDJX6xYj9Q8_5BEUtkpksERTCsJAnOQknEiISURQ/edit#slide=id.g2e773e3439e_0_16)
 - [Ecosystem Services Pitch Deck](https://docs.google.com/presentation/d/1kDAVnKIJT5hYh_69jxW8XuXjQ2J7Pj91NlOxaNy7Zvo/edit?usp=sharing) (for projects seeking funding above $10,000 worth of Voi)
 - [Product Blueprint Presentation](https://docs.google.com/presentation/d/1R2Xm2yUCfyPe9hv-26zSEhA0oQ_TpBBakZGolnmWyzM/edit#slide=id.p) (to be submitted as the final deliverable of the product 
   design blueprint)
-
-### Evaluation Forms (as reference to support with crafting a succcessful proposal) 
-[Product Design Grant Evaluation](https://docs.google.com/forms/d/e/1FAIpQLSd6brWeeLl8WnJMCDVxcKb_QhzFVmAlYLrjuWnaUw3wOppr8g/viewform?usp=sf_link)
-
-[Build Phase Grant Evaluation](https://forms.gle/vxLNhwyWjmtSH3ff6)
-
-[Ecosystem Services Grant Evaluation](https://docs.google.com/forms/d/e/1FAIpQLSf_jdul5uOi_ijDYAHx6zGp6CMcTwE9PwKzgASMgFTyVel2qg/viewform?usp=sf_link)
-
-[Retroactive Grant Evaluation (Development Projects)](https://docs.google.com/forms/d/e/1FAIpQLSfSsnnu3D9jafkR8Ukt5NeXPAgMxpCweNvTQyguhUBOrWInsg/viewform?usp=sf_link)
-
-[Retroactive Grant Evaluation (Ecosystem Services Projects)](https://docs.google.com/forms/d/e/1FAIpQLSeCX2jrvkAXiUvvElpTOUgOH83yBrxwlEv0di2mZM_NxQ3nEQ/viewform?usp=sf_link)
-
-[Microgrant Evaluation](https://docs.google.com/forms/d/e/1FAIpQLSfdWJ5Po9xbK75BZRsi25tJfOfgmDPjq60vrcmuEuW-jYscQg/viewform?usp=sf_link)
+- [Clickable Prototype](https://docs.google.com/document/d/18ftZqI99U5bsTeY3EZNqgsPkS0EKrHHDmx9oIWKDM0w/edit#heading=h.ox8nz2jwcxac)
+  
 
 ## Milestone Tracking
 
