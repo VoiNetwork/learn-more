@@ -14,6 +14,9 @@ Here you can find a consolidated list of important links and resources for Voi's
   -  [Retroactive Grant](https://docs.google.com/forms/d/e/1FAIpQLSecyd0j1JuWhHgPWicyi5iRXJmqi4dw_Dqj0H-ex0QOSh0iYQ/viewform?usp=sf_link)
 -  [Ecosystem Services Grant](https://docs.google.com/forms/d/1khhwLFKF_TxYOsNasXfOGI8AzRl_Ny1KpJh3794kFa4/edit)
 -  [Microgrants](https://docs.google.com/forms/d/1A1M_FiuUrKPtHAYmbo0jmy5HTu1xFVXH7_aRSMbtXRU/edit)
+-  [New Policy & Procedure Proposal](https://forms.gle/euWU7jDHKAwxcqGy5)
+-  [Policy or Procedure Removal Proposal](https://forms.gle/7BG6jf2vBFbmh7Gn8)
+-  [Amendment proposal](https://forms.gle/AVEZiVejx4WipDQj6)
 
   
 ### Pitch Decks (to be submitted as part of the application)
