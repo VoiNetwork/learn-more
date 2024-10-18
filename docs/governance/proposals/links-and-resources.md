@@ -25,7 +25,7 @@ Here you can find a consolidated list of important links and resources for Voi's
 - [Ecosystem Services Pitch Deck](https://docs.google.com/presentation/d/1kDAVnKIJT5hYh_69jxW8XuXjQ2J7Pj91NlOxaNy7Zvo/edit?usp=sharing) (for projects seeking funding above $10,000 worth of Voi)
 - [Product Blueprint Presentation](https://docs.google.com/presentation/d/1R2Xm2yUCfyPe9hv-26zSEhA0oQ_TpBBakZGolnmWyzM/edit#slide=id.p) (to be submitted as the final deliverable of the product 
   design blueprint)
-- [Clickable Prototype](https://docs.google.com/document/d/18ftZqI99U5bsTeY3EZNqgsPkS0EKrHHDmx9oIWKDM0w/edit#heading=h.ox8nz2jwcxac)
+- [Clickable Prototype](https://docs.google.com/document/d/18ftZqI99U5bsTeY3EZNqgsPkS0EKrHHDmx9oIWKDM0w/edit#heading=h.ox8nz2jwcxac) (to be submitted with the final deliverable of the product design blueprint) 
   
 
 ## Milestone Tracking
