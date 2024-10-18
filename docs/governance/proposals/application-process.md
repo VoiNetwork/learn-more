@@ -13,13 +13,13 @@ In the future Voi will be releasing a RFP to build a comprehensive Grants Portal
     - [Ecosystem Services Grant](https://docs.google.com/forms/d/1khhwLFKF_TxYOsNasXfOGI8AzRl_Ny1KpJh3794kFa4/edit)
     - [Microgrants](https://docs.google.com/forms/d/1A1M_FiuUrKPtHAYmbo0jmy5HTu1xFVXH7_aRSMbtXRU/edit)
     - [Policy & Proceduere Proposal](https://forms.gle/6xhiV8A1Tx2C892G8)
-    - [Policy & Procedure Removal Proposal] (https://forms.gle/QDjPyZg2enCd7ejh6)
+    - [Policy & Procedure Removal Proposal](https://forms.gle/QDjPyZg2enCd7ejh6)
 
 4. **Prepare the pitch deck and recorded pitch presentation** required for your appropriate grant as part of the application process and submit it with the above google form as a publicly viewable link. Microgrants do not require a pitch deck nor do Ecosystem Services Grants worth less than <$10,000 in Voi in requested funding.
     - [Product Design Pitch Deck](https://docs.google.com/presentation/d/1JwjrArUgIc2cF8l4LdBjunJ07V2_d21etOFpNI7wUno/edit#slide=id.p)
     - [Build Grant Pitch Deck](https://docs.google.com/presentation/d/1wNA5HeAgpwwFEEXvdnd4Jc6LEiYw4k83HByFZH799jI/edit#slide=id.p)
     - [Retroactive Pitch Deck ](https://docs.google.com/presentation/d/1hpxkDJX6xYj9Q8_5BEUtkpksERTCsJAnOQknEiISURQ/edit#slide=id.g2e773e3439e_0_16)
-    - [Ecosystem Services Pitch Deck](https://docs.google.com/presentation/d/1kDAVnKIJT5hYh_69jxW8XuXjQ2J7Pj91NlOxaNy7Zvo/edit?usp=sharing) (for projects seeking funding above $10,000 worth of Voi)
+    - [Ecosystem Services Pitch Deck](https://docs.google.com/presentation/d/1kDAVnKIJT5hYh_69jxW8XuXjQ2J7Pj91NlOxaNy7Zvo/edit?usp=sharing)(for projects seeking funding above $10,000 worth of Voi)
  
 5.  Any supporting documents if unable to be submitted via the application should be sent via email to the Council at voi.grants@voi.network with identifying information in the email subject line to be able to associate it with the appropriate application (Name of project_Type of Grant_YYYMMDD). 
 6. Prior to submission, we highly encourage you to review the **Grants Evaluation** section of the documentation so that you understand how your application will be evaluated. 
