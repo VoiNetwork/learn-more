@@ -136,9 +136,16 @@ nav:
           - Builder: governance/committees/builders.md
           - Voiager: governance/committees/nfts.md
           - DeFi: governance/committees/defi.md
-      - Submitting Proposals:
+      - Grants & Proposals:
           - Overview: governance/submitting-proposals.md
-          - Types of Grants: governance/proposals/types-of-grants.md
+          - Types of Grants:
+            - Overview: governance/proposals/types-of-grants.md
+            - Product Grants:
+              - Product Design Grants: governance/proposals/product-design-grants.md
+              - Product Build Grants: governance/proposals/product-build-grants.md
+            - Service Grants: governance/proposals/service-grants.md
+            - Initiative Grants: governance/initiative-grants.md
+            - Policy & Procedure Proposals: governance/proposals/policy-proposals.md  
           - Application Process: governance/proposals/application-process.md
           - Grants Calendar: governance/proposals/grants-calendar.md
           - Links & Resources: governance/proposals/links-and-resources.md
