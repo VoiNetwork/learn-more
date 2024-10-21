@@ -17,4 +17,6 @@ Voi has four major categories for grants and proposals: **Product Grants**, **Ec
 **3. Ecosystem Initiative Grants**: Dedicated for discrete ecosystem programs and events that are generally managed and executed within the Voi community (ex. a hackathon, a campaign). Microgrants are also available for ecosystem initiatives. 
   
 **4. Policy & Procedure Proposals**: Non-token backed, proposals unlike grants exist for Voi's committees to push forward (or remove) policies and procedures (including amendments to the Constitution) that enhance the overal operations and goals of the ecosystem.
+
+**The subsequent pages in this section will go into greater depth on each type of grant and will provide a checklist of items to prepare for applying to that grant.**
    
