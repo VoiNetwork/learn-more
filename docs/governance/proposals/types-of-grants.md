@@ -1,4 +1,4 @@
-# Breakdown of Voi's Grants & Proposals
+# Voi's Grants & Proposals
 
 Voi has four major categories for grants and proposals: **Product Grants**, **Ecosystem Services Grants**, **Ecosystem Initiative Grants**, and **Policy & Procedure Proposals**. 
 
