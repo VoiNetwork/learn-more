@@ -14,17 +14,7 @@ Voi’s Grants Program exists to drive community-led innovation by putting token
 Voi provides grant funding for anyone eager to build applications and products within the Voi ecosystem. This includes but is not limited to Developers, Entrepreneurs, and Core Partners or community members with an ability to provide services for the ecosystem. 
 
 
-# Grants Program Funding Categories 
-
-Voi has four major categories for grants and proposals: **Product Grants**, **Ecosystem Services Grants**, **Ecosystem Initiative Grants**, and **Policy & Procedure Proposals**. 
-
-* **Product Grants**: Focus on advancing the technical and infrastructural aspects of the Voi ecosystem, supporting projects that drive innovation on the network, create new Voi applications, and/or enhance existing platforms. Grants exist for products at various stages of the development process.
-  
-* **Ecosystem Services Grants**: Foster the growth and sustainability of the broader Voi community, providing funding for services that contribute to the ecosystem in the form of educational content, marketing support, community engagement, developer resources, etc. Many of our third party service providers will be interested in this grant category.
-  
-* **Ecosystem Initiative Grants**: Dedicated for discrete ecosystem programs and events that are generally managed and executed within the Voi community (ex. a hackathon, a campaign).
-  
-* **Policy & Procedure Proposals**: Non-token backed, proposals unlike grants exist for Voi's committees to push forward (or remove) policies and procedures (including amendments to the Constitution) that enhance the overal operations and goals of the ecosystem. 
+ 
 
 
 
