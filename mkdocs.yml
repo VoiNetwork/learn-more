@@ -139,7 +139,7 @@ nav:
       - Grants & Proposals:
           - Overview: governance/submitting-proposals.md
           - Types of Grants & Proposals:
-            - Grant Categories: governance/proposals/grant-proposal-categories.md
+            - Grant Categories: governance/proposals/types-of-grants.md
             - Product Grants:
               - Product Design Grants: governance/proposals/product-design-grants.md
               - Product Build Grants: governance/proposals/product-build-grants.md
