@@ -138,7 +138,7 @@ nav:
           - DeFi: governance/committees/defi.md
       - Grants & Proposals:
           - Overview: governance/submitting-proposals.md
-          - Types of Grants & Proposals: 
+          - Types of Funding: 
             - Grant Categories: governance/proposals/types-of-grants.md
             - Product Grants:
               - Product Design Grants: governance/proposals/product-design-grants.md
