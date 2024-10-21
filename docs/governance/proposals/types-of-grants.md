@@ -5,6 +5,7 @@ Voi has four major categories for grants and proposals: **Product Grants**, **Ec
 **1. Product Grants**: Focus on advancing the technical and infrastructural aspects of the Voi ecosystem, supporting projects that drive innovation on the network, create new Voi applications, and/or enhance existing platforms. Grants exist for products at various stages of the development process.
 
 **There are five types of product grants:**
+
    * _**Design Grants**:Intended to validate ideas and concepts, helping developers prepare a detailed Product Blueprint for a successful build and launch on Voi._
    * _**Build Grants**: Focused on the actual development and milestone-based funding of projects that have a completed Product Blueprint._
    * _**Retroactive Grants**: Available for already completed and launched open-source projects or open-source features of otherwise closed-source projects on Voi with proven traction and track record of success._
