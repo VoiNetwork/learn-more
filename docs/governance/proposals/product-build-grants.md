@@ -24,7 +24,7 @@ Important: All Build Grant applicants must submit a completed Product Blueprint 
 
 ## Alternative Builder Grants
 
-#### Retroactive Grants Application Checklist
+### Retroactive Grants Application Checklist
 
 Retroactive grants are for completed products that would like to launch on Voi. These grants require evidence of impact and sustainability within the Voi ecosystem. Please review the Retroactive Grants Application below and gather the information required prior to submitting this application. 
 
@@ -43,3 +43,8 @@ Microgrants are grants generally less than $10,000 USD for projects of smaller s
 #### Micro Grant Deliverable Checklist
 
 No deliverables required for completion of Microgrant given their smaller scope.
+
+### Success Reward Proposals
+
+Success rewards are rewards individuals can seek out for projects that prove particularly successful based on traction, customer feedback and satisfaction. They are projects that have gone above and beyond to ensure longevity in value brought within the Voi ecosystem and have exhibited continuous improvement overtime. They are distinct from retroactive grants in that they may have already received a build grant for development and simply seek additional rewards for proven performance. 
+
