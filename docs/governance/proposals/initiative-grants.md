@@ -4,8 +4,6 @@ Ecosystem Initiative Grants are dedicated to supporting discrete programs and ev
 
 ## Ecosystem Service Grant Application & Deliverable Checklist
 
-### Ecosystem Initiative Application Requirements
-
 - [ ] Completed [Ecosystem Initiative Application](https://forms.gle/Qi6JpAh5K6LKEuo88)
 - [ ] Completed [Ecosystem Initiative Pitch Deck](https://docs.google.com/presentation/d/1Nuw_6TN14VJXUp8PWxI20zGEn5eGZVz5Ez37cGpxj18/edit?usp=sharing) (for grants greater than $10,000 USD)
 - [ ] Completed [Milestone Tracker](https://docs.google.com/document/d/17QS_FfhjEttHnXu2d3DWKk4qoD6irAv0F3sVF17Y6wQ/edit#heading=h.alfnp343pc9r) (for grants greater than $10,000 USD)
