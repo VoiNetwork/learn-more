@@ -26,8 +26,9 @@ Important: All Build Grant applicants must submit a completed Product Blueprint 
 
 ### Retroactive Grants Application Checklist
 
-Retroactive grants are for completed products that would like to launch on Voi. These grants require evidence of impact and sustainability within the Voi ecosystem. Please review the Retroactive Grants Application below and gather the information required prior to submitting this application. 
+Retroactive grants are for completed products that would like to launch on Voi. These grants require evidence of impact and sustainability within the Voi ecosystem. Please review the Retroactive Grants Application below and gather the information required prior to submitting this application. As part of the application process, the developer or team will be requested to present a demo for the already launched project to the Voi Council, including user statistics and traction to date. Retroactive grants are not required to be open-source as they are grants paid out commensurate with the value they have created. That said, open-source projects seeking retroactive funding will be rewarded for being open source. 
 
+- [ ] Reviewed [Retroactive Grant Funding Eligibility Criteria](https://docs.google.com/document/d/1breQXeMKWDpZFsj64FfSGcPyGtDrfqVJIksqHwFW6tE/edit?usp=sharing)
 - [ ] Completed [Retroactive Grants Application](https://forms.gle/NpABWMkW4Erhv8Ka7)
 
 #### Retroactive Grant Deliverable Checklist
