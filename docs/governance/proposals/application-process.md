@@ -6,7 +6,7 @@ In the future Voi will be releasing a RFP to build a comprehensive Grants Portal
 
 1. Thoroughly read the **Submitting Proposals** section of Voi's documentation along with this comprehensive [guide](https://docs.google.com/document/d/1rgZcpBtZY0rwq3W6-omnRjIGg54T8G3w1xjA_2usg84/edit) that contains additional details not included in this website. 
 2.  Next, review the most up to date **Grants Calendar** to ensure you are aware of the relevant deadlines for the current funding round. The most up to date Grants Calendar can be found on the [Voi documentation website](https://docs.voi.network/) and Discord. Voi accepts proposals on a monthly basis for the first two weeks of each month, after which any submitted proposals get pushed for the next month's review. 
-3. **Fill out the appropriate grant or proposal application** completely. Ensure that you provide thorough responses to each of the questions as incomplete applications are automatically rejected. Application forms and any required supplementary materials can be found under **Types of Funding**
+3. **Fill out the appropriate grant or proposal application** completely. Ensure that you provide thorough responses to each of the questions as incomplete applications are automatically rejected. Application forms and any required supplementary materials can be found under **[Types of Funding](links-and-resources.md)**.
 4.  Any supporting documents if unable to be submitted via the application should be sent via email to the Council at voi.grants@voi.network with identifying information in the email subject line to be able to associate it with the appropriate application (Name of project_Type of Grant_YYYMMDD). 
 
 ## Council Review Process 
