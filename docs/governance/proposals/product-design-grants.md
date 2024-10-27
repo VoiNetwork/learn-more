@@ -20,4 +20,4 @@ The Product Blueprint is a comprehensive document required as the final delivera
 - Community feedback - seek out community feedback on completed blueprint in your proposal channel on discord and via a Voi AMA (request your project be featured on Voi’s next AMA). Include feedback in your presentation.
 - Completed [Product Blueprint](https://docs.google.com/document/d/1Pp6xY1-KCkx3YNd46Z0r40CNFgiwqfw1JwgZMqw1TR0/edit#heading=h.wekkd06scytq) document.
 - Completed [Product Design Blueprint presentation](https://docs.google.com/presentation/d/1JwjrArUgIc2cF8l4LdBjunJ07V2_d21etOFpNI7wUno/edit?usp=sharing). 
-- Demo Video (requested in application) to showcase your design to the community
+- Demo Video (requested in application) to showcase your design to the community.
