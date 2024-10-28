@@ -8,18 +8,18 @@ Service Grants are aimed at initiatives that strengthen the foundation and susta
 
 ### Service Grant Application Checklist
 
-- [ ] Completed and filled in [Ecosystem Service Application](https://forms.gle/z37FyyrMgxVtguPWA)
-- [ ] Completed [Milestone Tracker ](https://docs.google.com/document/d/17QS_FfhjEttHnXu2d3DWKk4qoD6irAv0F3sVF17Y6wQ/edit#heading=h.alfnp343pc9r)(for grants greater than $10,000 USD)
-- [ ] Completed [Pitch Deck](https://docs.google.com/presentation/d/1kDAVnKIJT5hYh_69jxW8XuXjQ2J7Pj91NlOxaNy7Zvo/edit?usp=sharing) (for grants greater than $10,000 USD)
+- Completed and filled in [Ecosystem Service Application](https://forms.gle/z37FyyrMgxVtguPWA)
+- Completed [Milestone Tracker ](https://docs.google.com/document/d/17QS_FfhjEttHnXu2d3DWKk4qoD6irAv0F3sVF17Y6wQ/edit#heading=h.alfnp343pc9r)(for grants greater than $10,000 USD)
+- Completed [Pitch Deck](https://docs.google.com/presentation/d/1kDAVnKIJT5hYh_69jxW8XuXjQ2J7Pj91NlOxaNy7Zvo/edit?usp=sharing) (for grants greater than $10,000 USD)
 
 #### Final Deliverable Checklist
 
-- [ ] Completed and filled in [Milestone Tracker](https://docs.google.com/document/d/17QS_FfhjEttHnXu2d3DWKk4qoD6irAv0F3sVF17Y6wQ/edit#heading=h.alfnp343pc9r) for final payout with KPIs achieved and final dates milestones were completed.
-- [ ] We suggest putting together a demo video, if relevant and helpful, for the community to showcase your contribution and how they can benefit from your service project.
-- [ ] Community feedback - regularly seek out community feedback on your service in the proposal channel on discord and via a Voi AMA (request your project be featured on Voi’s next AMA). Use this feedback to continually improve your service .
+- Completed and filled in [Milestone Tracker](https://docs.google.com/document/d/17QS_FfhjEttHnXu2d3DWKk4qoD6irAv0F3sVF17Y6wQ/edit#heading=h.alfnp343pc9r) for final payout with KPIs achieved and final dates milestones were completed.
+- We suggest putting together a demo video, if relevant and helpful, for the community to showcase your contribution and how they can benefit from your service project.
+- Community feedback - regularly seek out community feedback on your service in the proposal channel on discord and via a Voi AMA (request your project be featured on Voi’s next AMA). Use this feedback to continually improve your service .
 
 ### Micro Service Proposals
 
 Similar to product grants, ecosystem services also has small scalle micro grants available. These grants are great for individuals that would like to provide a service to Voi that is small in scope (less than $10,000 worth of Voi). This may include writing articles for Voi’s blog, developing educational materials, contributing to Voi’s documentation, etc. 
 
-- [ ] Completed [Microservice Grant Application](https://docs.google.com/forms/d/11EeE5Riw1xNCj2J48u5OAUGr1YpJIsooK8jCF483ekA/edit)
+- Completed [Microservice Grant Application](https://docs.google.com/forms/d/11EeE5Riw1xNCj2J48u5OAUGr1YpJIsooK8jCF483ekA/edit)
