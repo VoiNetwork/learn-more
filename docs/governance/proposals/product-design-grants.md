@@ -10,7 +10,8 @@ The Product Blueprint is a comprehensive document required as the final delivera
 
 ### Design Grant Application Checklist
 - Completed [Product Design Grant Application](https://docs.google.com/forms/d/1yfIQMGPysR90v76eU0IX15xeWubwdje_VQtMp-jn5Nw/edit). We recommend reviewing the questions asked in the form and preparing a separate documnet with your responses prior to submitting this form as the form does not save responses and to avoid losing any hard work. 
-- Completed [Milestone Tracker](https://docs.google.com/document/d/17QS_FfhjEttHnXu2d3DWKk4qoD6irAv0F3sVF17Y6wQ/edit?usp=sharing) with planned activities and anticipated completion dates.
+- Completed [Token Allocation Plan](https://docs.google.com/document/d/17QS_FfhjEttHnXu2d3DWKk4qoD6irAv0F3sVF17Y6wQ/edit?usp=sharing) with planned milestones/activities, anticipated completion dates, and tokens allocated to each milestone.
+- Completed [Milestone Manager & Token Release Request] (https://docs.google.com/spreadsheets/d/1MF8G4e-szjFhGJP7KFo_K1aLyhwO2dWNHsE70Co1HqU/edit?gid=0#gid=0)to be used to keep track of all milestones listed in the Token Allocation Plan, completion status, supporting documentation for completed milestones, and to request a payout for successfully completed milestones by the Council and Foundation. Anytime a milestone is successfully completed this Milestone Manager & Token Release Request should be completed and submitted to the Voi Council at grants@voi.network.
 - Completed [Product Design Grant Pitch Deck](https://docs.google.com/presentation/d/1R2Xm2yUCfyPe9hv-26zSEhA0oQ_TpBBakZGolnmWyzM/edit#slide=id.g2f5b142037c_0_45).
 
 ### Product Blueprint Deliverable Checklist
