@@ -9,12 +9,13 @@ Service Grants are aimed at initiatives that strengthen the foundation and susta
 ### Service Grant Application Checklist
 
 - Completed and filled in [Ecosystem Service Application](https://forms.gle/z37FyyrMgxVtguPWA)
-- Completed [Milestone Tracker ](https://docs.google.com/document/d/17QS_FfhjEttHnXu2d3DWKk4qoD6irAv0F3sVF17Y6wQ/edit#heading=h.alfnp343pc9r)(for grants greater than $10,000 USD)
+- - Completed [Token Allocation Plan](https://docs.google.com/document/d/17QS_FfhjEttHnXu2d3DWKk4qoD6irAv0F3sVF17Y6wQ/edit?usp=sharing) for grants greater than $10,000 USD with planned milestones/activities, anticipated completion dates, and tokens allocated to each milestone. To be submitted via email at grants@voi.network.
+- Completed [Milestone Manager & Token Release Request](https://docs.google.com/spreadsheets/d/1MF8G4e-szjFhGJP7KFo_K1aLyhwO2dWNHsE70Co1HqU/edit?gid=0#gid=0) for grants greater thatn $10,000 USD to be used to keep track of all milestones listed in the Token Allocation Plan, completion status, supporting documentation for completed milestones, and to request a payout for successfully completed milestones by the Council and Foundation. Anytime a milestone is successfully completed this Milestone Manager & Token Release Request should be completed. The form should then be submitted to the Voi Council at grants@voi.network.
 - Completed [Pitch Deck](https://docs.google.com/presentation/d/1kDAVnKIJT5hYh_69jxW8XuXjQ2J7Pj91NlOxaNy7Zvo/edit?usp=sharing) (for grants greater than $10,000 USD)
 
 #### Final Deliverable Checklist
 
-- Completed and filled in [Milestone Tracker](https://docs.google.com/document/d/17QS_FfhjEttHnXu2d3DWKk4qoD6irAv0F3sVF17Y6wQ/edit#heading=h.alfnp343pc9r) for final payout with KPIs achieved and final dates milestones were completed.
+- Completed and filled in [Milestone Manager & Token Release Request](https://docs.google.com/spreadsheets/d/1MF8G4e-szjFhGJP7KFo_K1aLyhwO2dWNHsE70Co1HqU/edit?gid=0#gid=0) for final payout with KPIs achieved and final dates milestones were completed. Final payout should be requested via email at grants@voi.network.
 - We suggest putting together a demo video, if relevant and helpful, for the community to showcase your contribution and how they can benefit from your service project.
 - Community feedback - regularly seek out community feedback on your service in the proposal channel on discord and via a Voi AMA (request your project be featured on Voi’s next AMA). Use this feedback to continually improve your service .
 
