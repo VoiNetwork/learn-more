@@ -9,5 +9,5 @@ The Voi Council will be accepting grant proposals on a monthly basis with the la
 - **72-hour period** for the **Council** to engage in a final vote.
 - **48-hour period** for the **Treasury** to approve proposal, which unlocks funds disbursement.
 
-  
-![Modern Minimalistic Elegant Monthly Planner October 2023 Calendar (1)](https://github.com/user-attachments/assets/fedd8951-55d7-4f95-a294-0463552c1746)
+
+![Modern November 2024 Planner Monthly Calendar](https://github.com/user-attachments/assets/f06e822d-2f83-4b1b-8e29-81485125fddb)
