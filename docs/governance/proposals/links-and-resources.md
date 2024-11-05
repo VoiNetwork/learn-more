@@ -28,9 +28,12 @@ Here you can find a consolidated list of important links and resources for Voi's
 - [Clickable Prototype](https://docs.google.com/document/d/18ftZqI99U5bsTeY3EZNqgsPkS0EKrHHDmx9oIWKDM0w/edit#heading=h.ox8nz2jwcxac) (to be submitted with the final deliverable of the product design blueprint) 
   
 
-## Milestone Tracking
+## Milestone Tracking & Token Release Request
 
-Milestone tracking form and can be found **[here](https://docs.google.com/document/d/17QS_FfhjEttHnXu2d3DWKk4qoD6irAv0F3sVF17Y6wQ/edit#heading=h.alfnp343pc9r)**
+Token allocation plan can be found here: [Token Allocation Plan](https://docs.google.com/document/d/17QS_FfhjEttHnXu2d3DWKk4qoD6irAv0F3sVF17Y6wQ/edit?usp=sharing)
+Milestone tracking & token release request form and can be found here: [Milestone Manager & Token Release Request](https://docs.google.com/spreadsheets/d/1MF8G4e-szjFhGJP7KFo_K1aLyhwO2dWNHsE70Co1HqU/edit?gid=0#gid=0) 
+
+Anytime a milestone is completed, the grantee must submit the milestone tracker/token release request to grants@voi.network so that the Council and Foundation can approve the request and supporting documentation prior to payout. 
 
 ## Contact Information
 
