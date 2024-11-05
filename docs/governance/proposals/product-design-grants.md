@@ -17,7 +17,7 @@ The Product Blueprint is a comprehensive document required as the final delivera
 **Please also upload all supporting materials (bullets 2-4) in your proposal's relevant Discord chat for easy access**
 
 ### Product Blueprint Deliverable Checklist
-**All materials below other than the Final Report google form should be email directly to the Council at grants@voi.network. They should also be upldoaded into your respective proposal's channel in the Discord. **
+**All materials below other than the Final Report google form should be email directly to the Council at grants@voi.network. They should also be upldoaded into your respective proposal's channel in the Discord.**
 
 - Completed general grant [Final Report.](https://docs.google.com/forms/d/e/1FAIpQLSeNWpE0pJPM32w9VkjE5ZE7GxdKM0uGV76XNqaDFsHh2MJcUQ/viewform?usp=sf_link) We recommend preparing your responses in a separate document to avoid losing any hard work.
     -  [Clickable Prototype](https://docs.google.com/document/d/18ftZqI99U5bsTeY3EZNqgsPkS0EKrHHDmx9oIWKDM0w/edit) (requirements also linked in the above Final Report). 
