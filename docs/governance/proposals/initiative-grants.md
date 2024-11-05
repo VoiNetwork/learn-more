@@ -6,7 +6,9 @@ Ecosystem Initiative Grants are dedicated to supporting discrete programs and ev
 
 - Completed [Ecosystem Initiative Application](https://forms.gle/Qi6JpAh5K6LKEuo88)
 - Completed [Ecosystem Initiative Pitch Deck](https://docs.google.com/presentation/d/1Nuw_6TN14VJXUp8PWxI20zGEn5eGZVz5Ez37cGpxj18/edit?usp=sharing) (for grants greater than $10,000 USD)
-- Completed [Milestone Tracker](https://docs.google.com/document/d/17QS_FfhjEttHnXu2d3DWKk4qoD6irAv0F3sVF17Y6wQ/edit#heading=h.alfnp343pc9r) (for grants greater than $10,000 USD)
+- Completed [Token Allocation Plan](https://docs.google.com/document/d/17QS_FfhjEttHnXu2d3DWKk4qoD6irAv0F3sVF17Y6wQ/edit?usp=sharing) for grants greater than $10,000 USD with planned milestones/activities, anticipated completion dates, and tokens allocated to each milestone. To be submitted via email at grants@voi.network.
+- Completed [Milestone Manager & Token Release Request](https://docs.google.com/spreadsheets/d/1MF8G4e-szjFhGJP7KFo_K1aLyhwO2dWNHsE70Co1HqU/edit?gid=0#gid=0) for grants greater thatn $10,000 USD to be used to keep track of all milestones listed in the Token Allocation Plan, completion status, supporting documentation for completed milestones, and to request a payout for successfully completed milestones by the Council and Foundation. Anytime a milestone is successfully completed this Milestone Manager & Token Release Request should be completed. The form should then be submitted to the Voi Council at grants@voi.network.
+
 
 ### Ecosystem Inititiative Deliverable Checklist
 
