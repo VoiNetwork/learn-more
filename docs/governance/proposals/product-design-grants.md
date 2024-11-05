@@ -20,8 +20,7 @@ The Product Blueprint is a comprehensive document required as the final delivera
 **All materials below other than the Final Report google form should be email directly to the Council at grants@voi.network. They should also be upldoaded into your respective proposal's channel in the Discord.**
 
 - Completed general grant [Final Report.](https://docs.google.com/forms/d/e/1FAIpQLSeNWpE0pJPM32w9VkjE5ZE7GxdKM0uGV76XNqaDFsHh2MJcUQ/viewform?usp=sf_link) We recommend preparing your responses in a separate document to avoid losing any hard work.
-    -  [Clickable Prototype](https://docs.google.com/document/d/18ftZqI99U5bsTeY3EZNqgsPkS0EKrHHDmx9oIWKDM0w/edit) (requirements also linked in the above Final Report). 
-- Completed [Milestone Tracker](https://docs.google.com/document/d/17QS_FfhjEttHnXu2d3DWKk4qoD6irAv0F3sVF17Y6wQ/edit?usp=sharing) with completion dates and KPIs achieved. 
+- Completed and filled in [Milestone Manager & Token Release Request](https://docs.google.com/spreadsheets/d/1MF8G4e-szjFhGJP7KFo_K1aLyhwO2dWNHsE70Co1HqU/edit?gid=0#gid=0) for final payout with KPIs achieved and final dates milestones were completed. Final payout should be requested via email at grants@voi.network.
 - Community feedback - seek out community feedback on completed blueprint in your proposal channel on discord and via a Voi AMA (request your project be featured on Voi’s next AMA). Include feedback in your presentation.
 - Completed [Product Blueprint](https://docs.google.com/document/d/1Pp6xY1-KCkx3YNd46Z0r40CNFgiwqfw1JwgZMqw1TR0/edit#heading=h.wekkd06scytq) document.
 - Completed [Product Design Blueprint presentation](https://docs.google.com/presentation/d/1JwjrArUgIc2cF8l4LdBjunJ07V2_d21etOFpNI7wUno/edit?usp=sharing). 
