@@ -10,7 +10,7 @@ Ecosystem Initiative Grants are dedicated to supporting discrete programs and ev
 
 ### Ecosystem Inititiative Deliverable Checklist
 
-- Completed and filled in [Milestone Tracker](https://docs.google.com/document/d/17QS_FfhjEttHnXu2d3DWKk4qoD6irAv0F3sVF17Y6wQ/edit#heading=h.alfnp343pc9r) for final payout
+- Completed and filled in [Milestone Manager & Token Release Request](https://docs.google.com/spreadsheets/d/1MF8G4e-szjFhGJP7KFo_K1aLyhwO2dWNHsE70Co1HqU/edit?gid=0#gid=0) for final payout with KPIs achieved and final dates milestones were completed. Final payout should be requested via email at grants@voi.network.
 - Community feedback - seek out community feedback on completed initiative in your proposal channel on discord and via a Voi AMA (request your project be featured on Voi’s next AMA). Include this feedback in your final report.
 - Completed [Final Report](https://docs.google.com/forms/d/1IrHtxHIVU8JStDeOf94pBrQaZeMPodt1C_OxnqtN72s/edit)
 
