@@ -14,7 +14,11 @@ The Product Blueprint is a comprehensive document required as the final delivera
 - Completed [Milestone Manager & Token Release Request](https://docs.google.com/spreadsheets/d/1MF8G4e-szjFhGJP7KFo_K1aLyhwO2dWNHsE70Co1HqU/edit?gid=0#gid=0) to be used to keep track of all milestones listed in the Token Allocation Plan, completion status, supporting documentation for completed milestones, and to request a payout for successfully completed milestones by the Council and Foundation. Anytime a milestone is successfully completed this Milestone Manager & Token Release Request should be completed. The form should then be submitted to the Voi Council at grants@voi.network.
 - Completed [Product Design Grant Pitch Deck](https://docs.google.com/presentation/d/1R2Xm2yUCfyPe9hv-26zSEhA0oQ_TpBBakZGolnmWyzM/edit#slide=id.g2f5b142037c_0_45). Submitted via the google form application as a link. 
 
+**Please also upload all supporting materials (bullets 2-4) in your proposal's relevant Discord chat for easy access**
+
 ### Product Blueprint Deliverable Checklist
+All materials belw
+
 - Completed general grant [Final Report.](https://docs.google.com/forms/d/e/1FAIpQLSeNWpE0pJPM32w9VkjE5ZE7GxdKM0uGV76XNqaDFsHh2MJcUQ/viewform?usp=sf_link) We recommend preparing your responses in a separate document to avoid losing any hard work.
     -  [Clickable Prototype](https://docs.google.com/document/d/18ftZqI99U5bsTeY3EZNqgsPkS0EKrHHDmx9oIWKDM0w/edit) (requirements also linked in the above Final Report). 
 - Completed [Milestone Tracker](https://docs.google.com/document/d/17QS_FfhjEttHnXu2d3DWKk4qoD6irAv0F3sVF17Y6wQ/edit?usp=sharing) with completion dates and KPIs achieved. 
