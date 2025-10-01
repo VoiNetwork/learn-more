@@ -46,7 +46,6 @@ Elections will take place annually to fill any seats that have completed their t
 
 
 * **Seat Functions and Roles**: Candidates must possess the necessary experience and background to fill one of Voi’s council seats.
-* **Personal Staking Requirement**: Candidates must have staked $10,000 worth of Voi at the time of submitting their application for candidacy and keep this staked for the duration of their term. 
 * **Reputation and Conduct**: Candidates must be in good standing within the community with no history of violating the Voi Network’s Code of Conduct.
 * **Verification and Transparency**: Candidates must undergo a verification process to confirm their identity and active participation in the network.
 
@@ -83,6 +82,7 @@ We look forward to your active participation in shaping the future of Voi throug
 **[General Responsibilities of the Council](https://docs.google.com/document/d/1OHK56O4E2bNdGM6iXi2-mhojjeU8SMDAs-W4FHeQnSc/edit#heading=h.e8vortt82qqw)**
 
 **[Job Description for Council Members](https://docs.google.com/document/d/1OHK56O4E2bNdGM6iXi2-mhojjeU8SMDAs-W4FHeQnSc/edit#heading=h.e8vortt82qqw)**
+
 
 
 
