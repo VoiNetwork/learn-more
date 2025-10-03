@@ -15,14 +15,16 @@ Voi has several wallet options available.
 | [Kibisis](https://kibis.is/) | Web Extension | No | Most Popular |
 | [A-Wallet](https://www.a-wallet.net/) | Web App | Yes | Most Functionality | 
 | [Lute](https://lute.app/) | Web App| Yes | Ledger Focused | 
+| [Voi Wallet](https://play.google.com/store/apps/details?id=com.voinetwork.wallet) | Mobile | Yes | IOS Soon |
+
 
 ## Setting Up Your Wallet
 
 Regardless of which wallet you choose, the basic creation process will remain the same: 
 
-1. Install the web extension or open the web application. 
+1. Install the web extension, open the web application, or download mobile application. 
 2. Create an account and record the 25 word mnemonic phrase, or recover an existing account using a previously recorded mnemonic phrase.
-3. Choose your preferred Voi environment. For example, Voi Testnet. 
+3. Choose your preferred Voi environment. For example, Voi Mainnet. 
 
 ### Kibisis
 
@@ -51,3 +53,9 @@ Videos:
 Guide: 
 
 - [Getting Started With Lute](https://medium.com/@RachKoch/getting-started-with-lute-wallet-9acee565c8da)
+
+### Voi Wallet
+
+Guide:
+
+- [Getting Started with Voi Wallet](https://play.google.com/store/apps/details?id=com.voinetwork.wallet)
