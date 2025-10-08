@@ -15,7 +15,7 @@ Voi has several wallet options available.
 | [Kibisis](https://kibis.is/) | Web Extension | No | Most Popular |
 | [A-Wallet](https://www.a-wallet.net/) | Web App | Yes | Most Functionality | 
 | [Lute](https://lute.app/) | Web App| Yes | Ledger Focused | 
-| [Voi Wallet](https://play.google.com/store/apps/details?id=com.voinetwork.wallet) | Mobile | Yes | IOS Soon |
+| [Voi Wallet](https://getvera.app/) | Mobile | Yes | [IOS](https://apps.apple.com/us/app/voi-wallet/id6752960399) [Google Play](https://play.google.com/store/apps/details?id=com.voinetwork.wallet) |
 
 
 ## Setting Up Your Wallet
